@@ -1,0 +1,3134 @@
+{
+  "upstream": "https://github.com/affaan-m/ECC",
+  "revision": "b38be6a7f6350964d59328b52f0624e1d1d552d1",
+  "skills": [
+    {
+      "name": "accessibility",
+      "source": "vendor/ecc/skills/accessibility/SKILL.md",
+      "sha256": "2762f21d09d199009ed4f95b28c911436b367c30963dc5ddb48b8e1ad7fc1585",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "agent-architecture-audit",
+      "source": "vendor/ecc/skills/agent-architecture-audit/SKILL.md",
+      "sha256": "64f57e232c3533877403703bc95b3c75df9de23f657899a306f13c703009ff57",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "agent-eval",
+      "source": "vendor/ecc/skills/agent-eval/SKILL.md",
+      "sha256": "57fa683e356b6f5612bc6d7dc101ae39c126e6edf9a48f4ec53afea3e80d7e5d",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "agent-harness-construction",
+      "source": "vendor/ecc/skills/agent-harness-construction/SKILL.md",
+      "sha256": "e7fb390a6663b46ea5d3c2876753a5ce32ba3bad1889686b21a42894caa1742d",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "agent-introspection-debugging",
+      "source": "vendor/ecc/skills/agent-introspection-debugging/SKILL.md",
+      "sha256": "0cdbfe3c822ff50d21df8cd0e20c72407a6f5658089edc0e96e79a03927cb956",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "agent-payment-x402",
+      "source": "vendor/ecc/skills/agent-payment-x402/SKILL.md",
+      "sha256": "159bfad40362f1b711d80bc91e8e0c36977deb00c5db39fd828d671bb2d4c13f",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "agent-runtime-gateway-smoke-test",
+      "source": "vendor/ecc/skills/agent-runtime-gateway-smoke-test/SKILL.md",
+      "sha256": "69c3a3825244aed5b5d3b2de517185f9cf0adfc3db83b128049440a626f2ddbf",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "agent-security-hardening",
+      "source": "vendor/ecc/skills/agent-security-hardening/SKILL.md",
+      "sha256": "0e0895ada90aa8fa085e4257961ebe15f2dff43b843785b1533d4c731186ad81",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "agent-self-evaluation",
+      "source": "vendor/ecc/skills/agent-self-evaluation/SKILL.md",
+      "sha256": "96bb21eb37760f596789f84ec0a5dad4ef92fc2255e35cd7b88dc4234062b8c1",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "agent-sort",
+      "source": "vendor/ecc/skills/agent-sort/SKILL.md",
+      "sha256": "5847fc20cf0fd0d00c0c2dbacca03472c5a43af429978cf874dd41ecc144dc53",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "agentic-engineering",
+      "source": "vendor/ecc/skills/agentic-engineering/SKILL.md",
+      "sha256": "c626eb66387447af2878a686977e3e95476fe441a46dcab82f3163d7f8e2b66d",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "agentic-os",
+      "source": "vendor/ecc/skills/agentic-os/SKILL.md",
+      "sha256": "e1d1207353652456ac84a821e5522def1d108677318630af4fd7ac16735b5c04",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "ai-first-engineering",
+      "source": "vendor/ecc/skills/ai-first-engineering/SKILL.md",
+      "sha256": "114913bdcb6127392df56d96f7f1312f36c74d69c278dece6d377b9bd92123a5",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "ai-regression-testing",
+      "source": "vendor/ecc/skills/ai-regression-testing/SKILL.md",
+      "sha256": "83f2f5c4083af5762dd658f742d4a390eb3a6f969d835f69e8f47efba296c127",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "android-clean-architecture",
+      "source": "vendor/ecc/skills/android-clean-architecture/SKILL.md",
+      "sha256": "20cbb9d7778462c549ccd32c830c0004fc7b92cfa009db99900d773373115f12",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "angular-developer",
+      "source": "vendor/ecc/skills/angular-developer/SKILL.md",
+      "sha256": "28ee37a8cf63add48fffc7c8676c6368aee35f3042525e79769b5a3d4e01aed1",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "api-connector-builder",
+      "source": "vendor/ecc/skills/api-connector-builder/SKILL.md",
+      "sha256": "00a0d01e234f213d343f0040bbebd56e042978768ce5bb7117776a75bd9547e8",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "api-design",
+      "source": "vendor/ecc/skills/api-design/SKILL.md",
+      "sha256": "250e464413a13c0eb93cc73447b423df1f9aa8e4f80e5e68c41f895b2c33e352",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "architecture-decision-records",
+      "source": "vendor/ecc/skills/architecture-decision-records/SKILL.md",
+      "sha256": "263b20e81801aa5fa7e75eaec6c38345c0ac028ca0edbd67b1b9071c5fcbe11f",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "article-writing",
+      "source": "vendor/ecc/skills/article-writing/SKILL.md",
+      "sha256": "4aa61709450a2148ef4036896d870da748e93ad68528bb7679b74f3597ffb021",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "automation-audit-ops",
+      "source": "vendor/ecc/skills/automation-audit-ops/SKILL.md",
+      "sha256": "71aa878fd06ef02f0c8ca50eaaee0ec45995981d769d8701806b9b83ca8a2f2c",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "autonomous-agent-harness",
+      "source": "vendor/ecc/skills/autonomous-agent-harness/SKILL.md",
+      "sha256": "74afde3fa6e8423bdbf43f53b24c7b4a8b441648a1ad8f23953dc6eba3378409",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "autonomous-loops",
+      "source": "vendor/ecc/skills/autonomous-loops/SKILL.md",
+      "sha256": "8ea5ee2cab40ca2c5c5ea606f5927b6139b04acddc4f00c5883c12e1f512cc40",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "backend-patterns",
+      "source": "vendor/ecc/skills/backend-patterns/SKILL.md",
+      "sha256": "9b983d0297a983110fdfda8dce55d19b750ca3e53ef155d75a3eff740d3874b8",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "benchmark",
+      "source": "vendor/ecc/skills/benchmark/SKILL.md",
+      "sha256": "58e34c3ccf60ee5155e3db74357b73770015a7aad3594649b6758ba8375ab6ff",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "benchmark-methodology",
+      "source": "vendor/ecc/skills/benchmark-methodology/SKILL.md",
+      "sha256": "f24585262b9c3e106dc27d45f75c4b965501680a16ff6dc5a9995a53322549df",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "benchmark-optimization-loop",
+      "source": "vendor/ecc/skills/benchmark-optimization-loop/SKILL.md",
+      "sha256": "f11208b6a86bc311cfbd9e20688a189238fda6c1e03b6f8000ef9e55487f6f95",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "bengali-nlp",
+      "source": "vendor/ecc/skills/bengali-nlp/SKILL.md",
+      "sha256": "7080235437516fbc227f759aac138219e85c95e8ce271187c3c978e51b094bde",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "blender-motion-state-inspection",
+      "source": "vendor/ecc/skills/blender-motion-state-inspection/SKILL.md",
+      "sha256": "97b8aee8822a8603e2fc930f66b4bd18507c11ca756accd1419a2a3526196f5c",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "blueprint",
+      "source": "vendor/ecc/skills/blueprint/SKILL.md",
+      "sha256": "878eae8ed0ea4d46d21c8f88d471f6ffce7b0815202a43501060a163e7f446f3",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "brand-discovery",
+      "source": "vendor/ecc/skills/brand-discovery/SKILL.md",
+      "sha256": "e6b9999ef722a42e0a01cd663072608609f69acc6bfd558fa3d4a14fcc3650b9",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "brand-voice",
+      "source": "vendor/ecc/skills/brand-voice/SKILL.md",
+      "sha256": "57c7f8440b7bd4c91c0d325640b5c6fb7a3dc7fc05595946c7bc705761a987a7",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "brownfield-retrospective",
+      "source": "vendor/ecc/skills/brownfield-retrospective/SKILL.md",
+      "sha256": "805439bc795d40dff6bceb34da6a2ab2115badfea6c9f4729e7fe0ccda62c382",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "browser-qa",
+      "source": "vendor/ecc/skills/browser-qa/SKILL.md",
+      "sha256": "6eb78a2460adcde116e6b44fcdff7ae37aeec6208241a24417cb2db4b3b254cd",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "bun-runtime",
+      "source": "vendor/ecc/skills/bun-runtime/SKILL.md",
+      "sha256": "fc0ff230f098d3537c5a6c6fa0466a4d3cc20c3a903cee40c774713fb52aa61f",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "canary-watch",
+      "source": "vendor/ecc/skills/canary-watch/SKILL.md",
+      "sha256": "d2cb536f8ccb201266e094542cb20af8a4d6474feb5b16116cfb4497c2b8149f",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "carrier-relationship-management",
+      "source": "vendor/ecc/skills/carrier-relationship-management/SKILL.md",
+      "sha256": "e325d73fd0078a101e826a84178c87aeeb80700d037faf45cda8e9ba9e53b27e",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "change-impact",
+      "source": "vendor/ecc/skills/change-impact/SKILL.md",
+      "sha256": "b8d8a11417af8b84e93983a8eb682e3b9a16d04f926778eb635c96e90019bf18",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "cisco-ios-patterns",
+      "source": "vendor/ecc/skills/cisco-ios-patterns/SKILL.md",
+      "sha256": "85b6a97574cc236d4a9336b1c74b42aaf4386338417e787cbed0c88677bf1179",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "ck",
+      "source": "vendor/ecc/skills/ck/SKILL.md",
+      "sha256": "af10359be29ca95b0d22502b0f8484b149fb272f1770791682c30f8d6ae2bbc0",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "claude-devfleet",
+      "source": "vendor/ecc/skills/claude-devfleet/SKILL.md",
+      "sha256": "5fe6efbb5663699ba8e348b2a77fbf7c396ed1903bb95fa0c05c1174f81fabfc",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "click-path-audit",
+      "source": "vendor/ecc/skills/click-path-audit/SKILL.md",
+      "sha256": "662fc5d02483bcd8ff799d6d3109a38da673182341cfc14445e9076fcd920162",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "clickhouse-io",
+      "source": "vendor/ecc/skills/clickhouse-io/SKILL.md",
+      "sha256": "9f0f2b632f3feb1bd4ca7bae119fe05454668ab763b7d3c3d304f8740b8fd415",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "code-tour",
+      "source": "vendor/ecc/skills/code-tour/SKILL.md",
+      "sha256": "416c7eb9229554a1ef113bbb873ff0b260a2ad9ae6e6075a75c375955d3fcf6f",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "codebase-onboarding",
+      "source": "vendor/ecc/skills/codebase-onboarding/SKILL.md",
+      "sha256": "ef88873a4b0d0fe155c0a196ffecd5c7b5e28edd00fbbdb5c1fd2ca8fd0eb6f0",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "codehealth-mcp",
+      "source": "vendor/ecc/skills/codehealth-mcp/SKILL.md",
+      "sha256": "c5943c4c353b02dcd87b751de15bb087caae2f11c36e84a74e181fe2eadee394",
+      "host_references": true,
+      "external_credentials": [
+        "CS_ACCESS_TOKEN"
+      ]
+    },
+    {
+      "name": "coding-standards",
+      "source": "vendor/ecc/skills/coding-standards/SKILL.md",
+      "sha256": "e80544c3d1eac5b14f22022146bd91a6b0ecc30e099cf5181894853aeb81dee1",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "competitive-platform-analysis",
+      "source": "vendor/ecc/skills/competitive-platform-analysis/SKILL.md",
+      "sha256": "9d868bf06258b7228dc9cd91fe8d0e5b3e2edfd0da5caba6366a188fc830826e",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "competitive-report-structure",
+      "source": "vendor/ecc/skills/competitive-report-structure/SKILL.md",
+      "sha256": "316894ef4f7751ddb9defa6a9c71171e21489f4836047c1500e8102500cf6e9d",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "compose-multiplatform-patterns",
+      "source": "vendor/ecc/skills/compose-multiplatform-patterns/SKILL.md",
+      "sha256": "37a50a5eb0a717eebac646360dbd8828f626236ec04d98d8c4a6b191a5efb0d0",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "config-gc",
+      "source": "vendor/ecc/skills/config-gc/SKILL.md",
+      "sha256": "e8ade5c8d48728db6c1137e4392308b6d56290a19d4f78d365122d7ab05276a1",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "configure-ecc",
+      "source": "vendor/ecc/skills/configure-ecc/SKILL.md",
+      "sha256": "ad87612e3cd745332625cd707179f4e98dc78da99183640f985637022ec9d650",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "connections-optimizer",
+      "source": "vendor/ecc/skills/connections-optimizer/SKILL.md",
+      "sha256": "499c7e7e361ec17afdad57b725b4d105efb21f707b5724115f71152fe1755c67",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "content-engine",
+      "source": "vendor/ecc/skills/content-engine/SKILL.md",
+      "sha256": "a1ccc0ecfe30ae53db26a73159a80ecad8c63a6a96c461a297789d889bf9ad2c",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "content-hash-cache-pattern",
+      "source": "vendor/ecc/skills/content-hash-cache-pattern/SKILL.md",
+      "sha256": "c0242ee2fcb5c096d0625cb6957481fce2266e92985036795f5b5c13c329d802",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "context-and-decisions",
+      "source": "vendor/ecc/skills/context-and-decisions/SKILL.md",
+      "sha256": "b48edce72b47828fed94d7836237566e1b46f464050a799728b0cb7e41f11267",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "context-budget",
+      "source": "vendor/ecc/skills/context-budget/SKILL.md",
+      "sha256": "793d51ac6639a466213800c228189a48b102c88d7cfb5b0651baa3480a577206",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "continuous-agent-loop",
+      "source": "vendor/ecc/skills/continuous-agent-loop/SKILL.md",
+      "sha256": "f228cd383a9063b3a0116c5aea02565e859992f63fae5e799adf9c9e44e2454d",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "continuous-learning",
+      "source": "vendor/ecc/skills/continuous-learning/SKILL.md",
+      "sha256": "d494867b456999cad53c51c89fa2cf8da101f76ea875286987f52e5d45f72221",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "continuous-learning-v2",
+      "source": "vendor/ecc/skills/continuous-learning-v2/SKILL.md",
+      "sha256": "ddad12451a0d582c6ef1b197b7be193bef613cbc74eba4117fcb74fc7a4ecd00",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "contract-first",
+      "source": "vendor/ecc/skills/contract-first/SKILL.md",
+      "sha256": "3eaacf16a9bbd92888659e9c1e15b0fa4eb96a41c257dd9e08f2e63b824f0cea",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "conventional-commit-review",
+      "source": "vendor/ecc/skills/conventional-commit-review/SKILL.md",
+      "sha256": "c81397a4bfc2ec66986aae7a4dff5a02f78c519bc9774a80778fa9055e7fa2fe",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "cost-aware-llm-pipeline",
+      "source": "vendor/ecc/skills/cost-aware-llm-pipeline/SKILL.md",
+      "sha256": "2d6c19c2d21a473db8720c4f723f17d265eeec48f84614f0169be2df2fbe28ff",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "cost-tracking",
+      "source": "vendor/ecc/skills/cost-tracking/SKILL.md",
+      "sha256": "f868207abd550308bc18902ecdfd2c51ad1ea85ba692dbe95cd9c3561da2a8bb",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "council",
+      "source": "vendor/ecc/skills/council/SKILL.md",
+      "sha256": "2104d002d301a061a16d21ea2e00292f80b66b20c9883a33525a7de404153502",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "council-multi-model",
+      "source": "vendor/ecc/skills/council-multi-model/SKILL.md",
+      "sha256": "3c67816efdab97c89f8433b8a88d720ca736871467f7d6d1ff344fee59f18ce5",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "counterparty-channel-discipline",
+      "source": "vendor/ecc/skills/counterparty-channel-discipline/SKILL.md",
+      "sha256": "51f719cf28a6d3c43e511a2c75e903a41d566205f8e93a2eeb276e0c1eb92463",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "cpp-coding-standards",
+      "source": "vendor/ecc/skills/cpp-coding-standards/SKILL.md",
+      "sha256": "f870b47d3493b0ad0b6e3808a679ac3c429b60f03193af6c9dc0e0d9e6981436",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "cpp-testing",
+      "source": "vendor/ecc/skills/cpp-testing/SKILL.md",
+      "sha256": "a92fb5da9b7e3cd1b4dee185b3eb9d0a55352af6396bf996d2eef72d683784df",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "crosspost",
+      "source": "vendor/ecc/skills/crosspost/SKILL.md",
+      "sha256": "03bd2ef6e08191cd336e9b8e7a55c29040e7a3225defdaeab1b51d983565661f",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "csharp-testing",
+      "source": "vendor/ecc/skills/csharp-testing/SKILL.md",
+      "sha256": "ee93aae975fa9d44bebc33be010b24435d38177e77395c697048622d9be68ad1",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "customer-billing-ops",
+      "source": "vendor/ecc/skills/customer-billing-ops/SKILL.md",
+      "sha256": "4214d79be7d1bcb62587cf6364e96ed3b70b875ec41871ac632e827ef96b370e",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "customs-trade-compliance",
+      "source": "vendor/ecc/skills/customs-trade-compliance/SKILL.md",
+      "sha256": "f4d418c1407a0792e05e5bfea64635e752cdcfb97827851665c6c9902e7063d4",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "dart-flutter-patterns",
+      "source": "vendor/ecc/skills/dart-flutter-patterns/SKILL.md",
+      "sha256": "43b6e45cc3f15d8de113ed2aa9884528a9207f83f6bb1901f72a712698705706",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "dashboard-builder",
+      "source": "vendor/ecc/skills/dashboard-builder/SKILL.md",
+      "sha256": "6823d9984c060597a312b867c317e0969e1cb0a2dec19730ce944fe789f41d38",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "data-scraper-agent",
+      "source": "vendor/ecc/skills/data-scraper-agent/SKILL.md",
+      "sha256": "662e884d58f4089bd8e090ef8d32042b85a5d9b4715906a89072002704451c0a",
+      "host_references": false,
+      "external_credentials": [
+        "GEMINI_API_KEY",
+        "NOTION_TOKEN"
+      ]
+    },
+    {
+      "name": "data-throughput-accelerator",
+      "source": "vendor/ecc/skills/data-throughput-accelerator/SKILL.md",
+      "sha256": "59e98c2c2871627ee42984a1509da0d2c3e92d80b10b04d4f93338e5e0c9b0d6",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "database-migrations",
+      "source": "vendor/ecc/skills/database-migrations/SKILL.md",
+      "sha256": "dad2f1964295eee14a96e06213ce3f60992bbcdc1f37a50c828bbc2e1abd79dd",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "deep-research",
+      "source": "vendor/ecc/skills/deep-research/SKILL.md",
+      "sha256": "ca02a97ff8cd794c55a1313ab423a6a165fdf2ce59059a73e08f7cfd957b5319",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "deepseek-harness-setup",
+      "source": "vendor/ecc/skills/deepseek-harness-setup/SKILL.md",
+      "sha256": "63431ebd83dbcf712031cf22efccc55179ecff6352aca34213121bd7a5685180",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "defi-amm-security",
+      "source": "vendor/ecc/skills/defi-amm-security/SKILL.md",
+      "sha256": "06f662a81b1faebb9930118302d88d649dbc5bcbf7dfe87c3780ddc72f2d6516",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "delivery-gate",
+      "source": "vendor/ecc/skills/delivery-gate/SKILL.md",
+      "sha256": "0d97c5b171392756d72a48ddd689953cd01ed7b84dbf9a4ac409dc35caa09f40",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "deployment-patterns",
+      "source": "vendor/ecc/skills/deployment-patterns/SKILL.md",
+      "sha256": "b864abd1954570c4a469b7e1deb897e57858d25db2fd98d035ff7bca4a15b9b6",
+      "host_references": false,
+      "external_credentials": [
+        "GITHUB_TOKEN"
+      ]
+    },
+    {
+      "name": "design-system",
+      "source": "vendor/ecc/skills/design-system/SKILL.md",
+      "sha256": "1969e4cb6cd13cdafff5f84353047d6e55cebc24e1a595ec48e6e2c666f3d8b1",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "dev-team",
+      "source": "vendor/ecc/skills/dev-team/SKILL.md",
+      "sha256": "727b093c8f8284923e54619b9193e5dee9e9ae0ea87b5fb65e1e01e0206fe621",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "django-celery",
+      "source": "vendor/ecc/skills/django-celery/SKILL.md",
+      "sha256": "1f9189ece910eb90a5d2cd520a9a6238ccb89a3e48629ac1ad9b55ec3eb21f88",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "django-patterns",
+      "source": "vendor/ecc/skills/django-patterns/SKILL.md",
+      "sha256": "14abe2b635054dff872c07d4993057e614b48ac718c0431f1299931be7d69516",
+      "host_references": false,
+      "external_credentials": [
+        "DJANGO_SECRET_KEY"
+      ]
+    },
+    {
+      "name": "django-security",
+      "source": "vendor/ecc/skills/django-security/SKILL.md",
+      "sha256": "9bee68f0fd5ae193693745c1fdc99b6335d30f9b113aebe171fe3d675cf5ad8e",
+      "host_references": false,
+      "external_credentials": [
+        "DJANGO_SECRET_KEY"
+      ]
+    },
+    {
+      "name": "django-tdd",
+      "source": "vendor/ecc/skills/django-tdd/SKILL.md",
+      "sha256": "20bd5378fb9b76b396916daa8781dd45eef6336e5d4b3a46edb0c3e4eefaf074",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "django-verification",
+      "source": "vendor/ecc/skills/django-verification/SKILL.md",
+      "sha256": "01d2d2a8382737fefff259fe7624e1928e373a7772e220535dbea128373e81a2",
+      "host_references": false,
+      "external_credentials": [
+        "DJANGO_SECRET_KEY"
+      ]
+    },
+    {
+      "name": "dmux-workflows",
+      "source": "vendor/ecc/skills/dmux-workflows/SKILL.md",
+      "sha256": "921836c6a10e65516654974815ec5acd358ce093e8043932781ba43bdd0a64a5",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "docker-patterns",
+      "source": "vendor/ecc/skills/docker-patterns/SKILL.md",
+      "sha256": "c0cedeb9b64d4468f5af3bb0a97659c654f0ceb916acbec867a29dc682dd633f",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "docs-governance",
+      "source": "vendor/ecc/skills/docs-governance/SKILL.md",
+      "sha256": "46f1a9fb999db9dfb8eb952b495b1a83723afaadb0ee8e43b98f813bc5ba5ab0",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "documentation-lookup",
+      "source": "vendor/ecc/skills/documentation-lookup/SKILL.md",
+      "sha256": "81ad2b5b4acbe02259f4b6cbfd9111d81d5cfe51025051b6048959c45f6516c1",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "dotnet-patterns",
+      "source": "vendor/ecc/skills/dotnet-patterns/SKILL.md",
+      "sha256": "61bc21a6c6d6d1230d90f0bbebca55101b1b63de68ece8574152cbad152cef07",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "dynamic-workflow-mode",
+      "source": "vendor/ecc/skills/dynamic-workflow-mode/SKILL.md",
+      "sha256": "54f4d2accc9c89b64e621c1f2c43ceda6e43a741bcc6b0ee159127db53aaa5e6",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "e2e-testing",
+      "source": "vendor/ecc/skills/e2e-testing/SKILL.md",
+      "sha256": "b0e00e7e17cb259101139900816c5528aed18dd10bcf5f9cb42cfc35baf8a755",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "ecc-guide",
+      "source": "vendor/ecc/skills/ecc-guide/SKILL.md",
+      "sha256": "472d72a270cbd7f4eaf7fc73a1313f40a4995575c5e2d2ff4f91c280f5ee5df9",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "ecc-recipes",
+      "source": "vendor/ecc/skills/ecc-recipes/SKILL.md",
+      "sha256": "0c3250fe8c8c1384f1dc4a8b8bd57e3a80037d4964c7c18848e449bf03866644",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "ecc-tools-cost-audit",
+      "source": "vendor/ecc/skills/ecc-tools-cost-audit/SKILL.md",
+      "sha256": "efcc5b7c850d5a2f1b853c25a92b392fa0bf62451e5799b9a5efb905dbf45337",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "email-ops",
+      "source": "vendor/ecc/skills/email-ops/SKILL.md",
+      "sha256": "188b226ec0dfd4304d6c9b60498b5f0dc2b3c97b14e159e5bde5db323ad45721",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "energy-procurement",
+      "source": "vendor/ecc/skills/energy-procurement/SKILL.md",
+      "sha256": "4b4cb5d87f571cf02c26631e647fa06df21601a4faed6baf97a8100e1f32cc50",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "enterprise-agent-ops",
+      "source": "vendor/ecc/skills/enterprise-agent-ops/SKILL.md",
+      "sha256": "468a10e507520d1fd2f15e5cf326499456206740697fd9462570321996ddfb35",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "error-handling",
+      "source": "vendor/ecc/skills/error-handling/SKILL.md",
+      "sha256": "e8eec6756c950b570486493e64e3bf14c12baf6bf0858bf3928097fe2bfeaf79",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "esign-field-placement",
+      "source": "vendor/ecc/skills/esign-field-placement/SKILL.md",
+      "sha256": "712e73679a640a521291db96ca7e8147f4d3252832c56ac91b8151cffb9aece5",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "eval-harness",
+      "source": "vendor/ecc/skills/eval-harness/SKILL.md",
+      "sha256": "3a5339a5a80099a5c9d55da9b6c8e05a690f5befc6f78d779c75dd79d818ca07",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "evm-token-decimals",
+      "source": "vendor/ecc/skills/evm-token-decimals/SKILL.md",
+      "sha256": "4e3fd13794f55a2a424cabdfe90935effb35d37155fda3fcacd27cfe20102838",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "exa-search",
+      "source": "vendor/ecc/skills/exa-search/SKILL.md",
+      "sha256": "ebc8e7ab299a6649f575e218f0c25f4d869017b8ad4b5f7725cedceaf82700e5",
+      "host_references": true,
+      "external_credentials": [
+        "EXA_API_KEY"
+      ]
+    },
+    {
+      "name": "fal-ai-media",
+      "source": "vendor/ecc/skills/fal-ai-media/SKILL.md",
+      "sha256": "723ffbe93063a8927a07a9d2c6d5743045ffb15d292f90472dee89582ed7714f",
+      "host_references": true,
+      "external_credentials": [
+        "ELEVENLABS_API_KEY"
+      ]
+    },
+    {
+      "name": "fastapi-patterns",
+      "source": "vendor/ecc/skills/fastapi-patterns/SKILL.md",
+      "sha256": "3ad1bb7ce5d48722d41504e4b84bbc2c9898e9accc1e5a659ec0418be11b4553",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "finance-billing-ops",
+      "source": "vendor/ecc/skills/finance-billing-ops/SKILL.md",
+      "sha256": "823a1b8f75495022227bb9af4537eb5c0b1c62793d68b74c6bd1af14eea79786",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "flox-environments",
+      "source": "vendor/ecc/skills/flox-environments/SKILL.md",
+      "sha256": "ab73da7c17ec6a003db7527676dbf20088c9836461952953b449f4e4b409a320",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "flutter-dart-code-review",
+      "source": "vendor/ecc/skills/flutter-dart-code-review/SKILL.md",
+      "sha256": "5ceac13c9b99c97340f9a47c081737aceee1f803ed9045b7fbc980243b01db03",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "foundation-models-on-device",
+      "source": "vendor/ecc/skills/foundation-models-on-device/SKILL.md",
+      "sha256": "4f239588e43f7ff0d6415cdcd2c85528a854cdd712986c00c690c6d3cb09491e",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "frontend-a11y",
+      "source": "vendor/ecc/skills/frontend-a11y/SKILL.md",
+      "sha256": "e00991a3f4d47fcf1529dd74a080afcf46137dc5061e70dc6e3da7b27f2ae3f3",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "frontend-design-direction",
+      "source": "vendor/ecc/skills/frontend-design-direction/SKILL.md",
+      "sha256": "71a40f7bc4a28da01b54527fe5590f6055c93adc630e6ceee8c892b35c980893",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "frontend-patterns",
+      "source": "vendor/ecc/skills/frontend-patterns/SKILL.md",
+      "sha256": "a5b971eb9e74cd763c7e3308bfd888e0d9cf69f8b88477659889d77182479740",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "frontend-slides",
+      "source": "vendor/ecc/skills/frontend-slides/SKILL.md",
+      "sha256": "9d58ad7d4555a9d6ea1944a5084fd0428ee44276ac13ee8df02c1c4e63925291",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "fsharp-testing",
+      "source": "vendor/ecc/skills/fsharp-testing/SKILL.md",
+      "sha256": "d89f8cb5235f7896b014aae4aa94026bd1a38bc6add956d3fc7ccf2963f2adb7",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "gan-style-harness",
+      "source": "vendor/ecc/skills/gan-style-harness/SKILL.md",
+      "sha256": "d91da8ca4a77a797d9ab78bb748aeb16567d75a1b109c894dc07d8815aa19dde",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "gateguard",
+      "source": "vendor/ecc/skills/gateguard/SKILL.md",
+      "sha256": "54083368cd78dea6ea178a8cf666557f41bbc70edaa3be32b8639df9de1c1795",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "generating-python-installer",
+      "source": "vendor/ecc/skills/generating-python-installer/SKILL.md",
+      "sha256": "47e73ef601d900be3b5ccb5d1a1ba2371d3e46c67b5243c1810e51cd2d8f62f3",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "git-workflow",
+      "source": "vendor/ecc/skills/git-workflow/SKILL.md",
+      "sha256": "7094ab94802d7e839dc33c6ea230020327260518b1b1ce62b42d56d051c1d7c5",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "github-ops",
+      "source": "vendor/ecc/skills/github-ops/SKILL.md",
+      "sha256": "281e19fbf138c8d7ac7379864825721aa6f6efcf4008e976a6ea34b3c96e2b54",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "golang-patterns",
+      "source": "vendor/ecc/skills/golang-patterns/SKILL.md",
+      "sha256": "6d5b957e83c469f8484ebe50dec5a8c4dd6c2bceea4341d5a953f3676e9b1c13",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "golang-testing",
+      "source": "vendor/ecc/skills/golang-testing/SKILL.md",
+      "sha256": "e3399562c58590dfcbd09bfcbf8f401120a2ded0418eb33bbfca6c697ac485ad",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "google-workspace-ops",
+      "source": "vendor/ecc/skills/google-workspace-ops/SKILL.md",
+      "sha256": "93ab16b44764e3c00472c7dfb0b58cf59a3c7493ac99ab93fcabf280f164b6a1",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "growth-log",
+      "source": "vendor/ecc/skills/growth-log/SKILL.md",
+      "sha256": "1cfaf2a0bf341087bbeeb8db0dc7c5edd5bad241ce4d89df728d22f2c5c72809",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "healthcare-cdss-patterns",
+      "source": "vendor/ecc/skills/healthcare-cdss-patterns/SKILL.md",
+      "sha256": "439875d2fff3bbf14e0b46b7310b4c815c2596e54a6cafaafb4b2b93b4865626",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "healthcare-emr-patterns",
+      "source": "vendor/ecc/skills/healthcare-emr-patterns/SKILL.md",
+      "sha256": "117e1861c5313f1874c82791c73798d28e9985cac8964a95d73bed915a8aff39",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "healthcare-eval-harness",
+      "source": "vendor/ecc/skills/healthcare-eval-harness/SKILL.md",
+      "sha256": "0c74bb0309d4fb7e3bf04b0f779909156520c73bd6162bd405f7232af19c0a68",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "healthcare-phi-compliance",
+      "source": "vendor/ecc/skills/healthcare-phi-compliance/SKILL.md",
+      "sha256": "02f9091e652f278a722230d5b96948d6ceaf10f9f37bc4c7eb6ddaad7bc8a271",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "hermes-imports",
+      "source": "vendor/ecc/skills/hermes-imports/SKILL.md",
+      "sha256": "4e425b32c9830c936f845b3f63352f6f199d869eb27eef484ce28ddc8ce4f3b4",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "hexagonal-architecture",
+      "source": "vendor/ecc/skills/hexagonal-architecture/SKILL.md",
+      "sha256": "1579f70e4cd5a2dde39d29a2055d18b39f06b063a308d3b43a498900c99495b7",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "hipaa-compliance",
+      "source": "vendor/ecc/skills/hipaa-compliance/SKILL.md",
+      "sha256": "4bc1f29a3be7986f89bdd7b5ec3894451e67c687a558b683cab62bd8d1fd2264",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "homelab-network-readiness",
+      "source": "vendor/ecc/skills/homelab-network-readiness/SKILL.md",
+      "sha256": "22ca735343716f296daa024c57128ceb6d5c38d54b3edb3045f6a9ef376a61f8",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "homelab-network-setup",
+      "source": "vendor/ecc/skills/homelab-network-setup/SKILL.md",
+      "sha256": "8104e87516857c7f773da9aba0dd13b61c3e490913adb4555d036614a9a937be",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "homelab-pihole-dns",
+      "source": "vendor/ecc/skills/homelab-pihole-dns/SKILL.md",
+      "sha256": "23a801545a4839c4fc04dc287e1122cc3913016a116b2cb5c7720e193edfa6c2",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "homelab-vlan-segmentation",
+      "source": "vendor/ecc/skills/homelab-vlan-segmentation/SKILL.md",
+      "sha256": "a6e5d6574566881d31e949cc0fad927e1e547d2ebe6f11d1f94f2890ed6ddd5e",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "homelab-wireguard-vpn",
+      "source": "vendor/ecc/skills/homelab-wireguard-vpn/SKILL.md",
+      "sha256": "38df424e399549d3ba42d6f50c77554d9a88a46b3bac4dd1436158874535c13c",
+      "host_references": false,
+      "external_credentials": [
+        "DUCKDNS_TOKEN",
+        "SETTINGS_CLOUDFLARE_TOKEN"
+      ]
+    },
+    {
+      "name": "hookify-rules",
+      "source": "vendor/ecc/skills/hookify-rules/SKILL.md",
+      "sha256": "6d1fdfe8e594ad1465ee1e02ee2fb6fce51570ef9e4ee1231bdc43df937ed4c4",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "i18n-sync",
+      "source": "vendor/ecc/skills/i18n-sync/SKILL.md",
+      "sha256": "05fc3e2ae72c2f55cc44fa0e9531688c1112081037d628e1124fd5bf40825325",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "inherit-legacy-style",
+      "source": "vendor/ecc/skills/inherit-legacy-style/SKILL.md",
+      "sha256": "ccce44b6240e346e2d564a035f45abf01842cfc03f4c0253050b8304c505f709",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "intent-driven-development",
+      "source": "vendor/ecc/skills/intent-driven-development/SKILL.md",
+      "sha256": "e34045f7b3bf6a6fbd364f85c7bc81d8208e18bb929ceff80bbc987f78aadea8",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "inventory-demand-planning",
+      "source": "vendor/ecc/skills/inventory-demand-planning/SKILL.md",
+      "sha256": "ad5bf71e6d95d80611beb8c4f424f8bbd6a49fb7e4766562d45133e9fdf4a6f2",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "investor-materials",
+      "source": "vendor/ecc/skills/investor-materials/SKILL.md",
+      "sha256": "e2c8d64412e2af9a2def3144b3d1e32f0fd69c724f2d17615fcf5a9bfa5f01cc",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "investor-outreach",
+      "source": "vendor/ecc/skills/investor-outreach/SKILL.md",
+      "sha256": "e5d4918dcbc62eb25d42829b56683ae6befe3a623f7ce6ed66bef37ce1a57c65",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "ios-icon-gen",
+      "source": "vendor/ecc/skills/ios-icon-gen/SKILL.md",
+      "sha256": "893627c44e6d209f9b2e02de2f4879188649d22ae9723cd5b9445de6df3d6482",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "issue-review",
+      "source": "vendor/ecc/skills/issue-review/SKILL.md",
+      "sha256": "926f451e454232815d8288476e4e4f2077f6671985bfde162a54e11caff0c9d9",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "iterative-retrieval",
+      "source": "vendor/ecc/skills/iterative-retrieval/SKILL.md",
+      "sha256": "b453b16d3e36174b8487c05ab807d0321a66c2d058812b2ae129d82824183725",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "ito-baskets",
+      "source": "vendor/ecc/skills/ito-baskets/SKILL.md",
+      "sha256": "ef5e4353d1d90a75ad0b9c435d831c178187b4be407b9270e2d32b2bb64589bc",
+      "host_references": false,
+      "external_credentials": [
+        "ITO_API_KEY"
+      ]
+    },
+    {
+      "name": "ito-compute",
+      "source": "vendor/ecc/skills/ito-compute/SKILL.md",
+      "sha256": "ed0664f44307b1243cd7fa7521b05ca3f50a1dd4460e93b55edb8bcda988e815",
+      "host_references": false,
+      "external_credentials": [
+        "ITO_API_KEY"
+      ]
+    },
+    {
+      "name": "ito-inference",
+      "source": "vendor/ecc/skills/ito-inference/SKILL.md",
+      "sha256": "60d2094ff4e8eb43f4599eaf806331231525a7a6cc5fee609f1764a0f848cc7b",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "ito-training",
+      "source": "vendor/ecc/skills/ito-training/SKILL.md",
+      "sha256": "43ce5354855709d10d7171bae301157b0b88e6ac9a3775c9acd9599c0b7617d5",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "java-coding-standards",
+      "source": "vendor/ecc/skills/java-coding-standards/SKILL.md",
+      "sha256": "c7088a434cd7efb4f3bb449bed2178cf683c1d71bc50f8ae5234a8880d3633f4",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "jira-integration",
+      "source": "vendor/ecc/skills/jira-integration/SKILL.md",
+      "sha256": "ce0a0c815e3112a1e80d4dbd1d2d0c804c2af0371628d325e04d7ffbddf4247e",
+      "host_references": true,
+      "external_credentials": [
+        "JIRA_API_TOKEN"
+      ]
+    },
+    {
+      "name": "jpa-patterns",
+      "source": "vendor/ecc/skills/jpa-patterns/SKILL.md",
+      "sha256": "bcdd45c5e435df259856b20aae47182209b0467b542eacfc7e32bcf452326839",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "knowledge-ops",
+      "source": "vendor/ecc/skills/knowledge-ops/SKILL.md",
+      "sha256": "958529713af2ab29c7b31b3cb758953271174b8909c94f1238dd7c78671672c2",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "kotlin-coroutines-flows",
+      "source": "vendor/ecc/skills/kotlin-coroutines-flows/SKILL.md",
+      "sha256": "ed7d895ecd6c717fbdbf7f1469110df74a6337792acd1232c4ad7286abee76e4",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "kotlin-exposed-patterns",
+      "source": "vendor/ecc/skills/kotlin-exposed-patterns/SKILL.md",
+      "sha256": "dda4952840ddff31a9ea4ad7161dd75fbc13ff73ebf73d5ee9fa42fcce287167",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "kotlin-ktor-patterns",
+      "source": "vendor/ecc/skills/kotlin-ktor-patterns/SKILL.md",
+      "sha256": "f2fa0b135ad0f37ee7a79dd346d236758f25c60c525de451bba28678659a5261",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "kotlin-patterns",
+      "source": "vendor/ecc/skills/kotlin-patterns/SKILL.md",
+      "sha256": "e519234772a3697763ad484908d180c4c653439fea75a56c03440c272f9f0896",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "kotlin-testing",
+      "source": "vendor/ecc/skills/kotlin-testing/SKILL.md",
+      "sha256": "13e39ad65e86e86c22fbdb6273bdc8d17d3784c221a8f08207a1e9e2e9c29a0a",
+      "host_references": false,
+      "external_credentials": [
+        "CODECOV_TOKEN"
+      ]
+    },
+    {
+      "name": "kubernetes-patterns",
+      "source": "vendor/ecc/skills/kubernetes-patterns/SKILL.md",
+      "sha256": "808b2ec032224e251f1bef9f6e9879e88e2e7abd0feb393632fb6042d8ac5ecc",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "laravel-patterns",
+      "source": "vendor/ecc/skills/laravel-patterns/SKILL.md",
+      "sha256": "6fa9d96a7b944ef9775e2ecb93a56bc29d6219e34eb5af491792638fc5cb46b4",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "laravel-plugin-discovery",
+      "source": "vendor/ecc/skills/laravel-plugin-discovery/SKILL.md",
+      "sha256": "6cf2b48ae39f26df7f8d17cf6480635b5203f6942a756a290efa27cf339169d3",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "laravel-security",
+      "source": "vendor/ecc/skills/laravel-security/SKILL.md",
+      "sha256": "1300ff41c52cef3f868f651427aa331971c48a53fe1492e0024d0ae0468d3198",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "laravel-tdd",
+      "source": "vendor/ecc/skills/laravel-tdd/SKILL.md",
+      "sha256": "505fa6c5caad022a5db0c359aebdcdcce1ad16e5863dc13ef862aec48cfa1628",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "laravel-verification",
+      "source": "vendor/ecc/skills/laravel-verification/SKILL.md",
+      "sha256": "577f592e4d570e8a6c4a0106acb8102063f67bea53c98eb6eae222191c038c35",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "latency-critical-systems",
+      "source": "vendor/ecc/skills/latency-critical-systems/SKILL.md",
+      "sha256": "e533b86d34fe05f5db46365608e15df35386f4d9ad2b8d9d0a350cce5fa8b59d",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "lead-intelligence",
+      "source": "vendor/ecc/skills/lead-intelligence/SKILL.md",
+      "sha256": "1b24027c5ef0ebfb046990433905b80d8df63d93f83fff9fdef4f74ad883a5f2",
+      "host_references": false,
+      "external_credentials": [
+        "APOLLO_API_KEY",
+        "EXA_API_KEY",
+        "X_ACCESS_TOKEN",
+        "X_BEARER_TOKEN"
+      ]
+    },
+    {
+      "name": "liquid-glass-design",
+      "source": "vendor/ecc/skills/liquid-glass-design/SKILL.md",
+      "sha256": "6e424b8daba26c92a8283cd3e5b35c7b2bc78a0a9fc07821a5939027090b8e43",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "living-docs-governance",
+      "source": "vendor/ecc/skills/living-docs-governance/SKILL.md",
+      "sha256": "fc5c19666eee0c4949e429fe012c81c47f932da4e736aa7d70463a3a3f7d632b",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "llm-trading-agent-security",
+      "source": "vendor/ecc/skills/llm-trading-agent-security/SKILL.md",
+      "sha256": "8a59b241f6ae86d8f96b88122643b4d27d70adb6c15b31f5163f9586cb81b293",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "logistics-exception-management",
+      "source": "vendor/ecc/skills/logistics-exception-management/SKILL.md",
+      "sha256": "7a1723164c36771a57601ade98296293a864c608d189a459dfbe18ab2259b877",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "loop-design-check",
+      "source": "vendor/ecc/skills/loop-design-check/SKILL.md",
+      "sha256": "d48c239c8b9ff253d103d7de7b9839c5bf9dbd3c90eddef7c4ac612b28d71bbd",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "mailtrap-email-integration",
+      "source": "vendor/ecc/skills/mailtrap-email-integration/SKILL.md",
+      "sha256": "917fe931b1ce8e796768d71686d4f90b37e413529593e5f7cf108c4c73b35ce4",
+      "host_references": false,
+      "external_credentials": [
+        "MAILTRAP_API_TOKEN"
+      ]
+    },
+    {
+      "name": "make-interfaces-feel-better",
+      "source": "vendor/ecc/skills/make-interfaces-feel-better/SKILL.md",
+      "sha256": "aff91aef917cba9c65681ae77197cee93ce9b697ee8916ea684ef8537c99fb52",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "manim-video",
+      "source": "vendor/ecc/skills/manim-video/SKILL.md",
+      "sha256": "bb890b019664a995ca2bf6c08add444a85099caf4c0085de50e9ad6f62d62d5f",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "market-research",
+      "source": "vendor/ecc/skills/market-research/SKILL.md",
+      "sha256": "8cfc36dc8a93476d092115f3fc70c631dcab14fcd6e04371160fc4fb29547800",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "marketing-campaign",
+      "source": "vendor/ecc/skills/marketing-campaign/SKILL.md",
+      "sha256": "f4d2501b1abb19f7ef5f73b21afa5a7ea51c5dc3d766e8dbd239ec548899213f",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "master-agreement-generator",
+      "source": "vendor/ecc/skills/master-agreement-generator/SKILL.md",
+      "sha256": "46f8c847b3fc406929a52c0064214715abb5412ecabb068730e6d4af50f89ac6",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "mcp-dependency-review",
+      "source": "vendor/ecc/skills/mcp-dependency-review/SKILL.md",
+      "sha256": "766536baa981710a85c8f761675f6a57f58600fff42b23ccf6171606180f4c12",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "mcp-server-patterns",
+      "source": "vendor/ecc/skills/mcp-server-patterns/SKILL.md",
+      "sha256": "eacb07c953e0440c758e3ee7d92984d2c9128e3444005ea7ad5da7bc0201d43d",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "messages-ops",
+      "source": "vendor/ecc/skills/messages-ops/SKILL.md",
+      "sha256": "c2036d3ff01fd13258a2d8af88c04b94f68a10808c799be4e62b975874b263af",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "ml-adoption-playbook",
+      "source": "vendor/ecc/skills/ml-adoption-playbook/SKILL.md",
+      "sha256": "488f83a5c3766043e0ff98466f8d5534f69863d9adebda8b4d2903f00860e312",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "mle-workflow",
+      "source": "vendor/ecc/skills/mle-workflow/SKILL.md",
+      "sha256": "2497888dd543ca7bdf5d0cb4d90fce023eb2c1c14f860f0af8e8be42423131b4",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "module-governance",
+      "source": "vendor/ecc/skills/module-governance/SKILL.md",
+      "sha256": "9cf89d924847c5241d53f858181612ee76e1e5c2d4ad16afda03d3f4c8080e98",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "module-regression",
+      "source": "vendor/ecc/skills/module-regression/SKILL.md",
+      "sha256": "5c3db104f8e4aec868d010fa9354ec64b4c138557a59d13d7355fc9eacdcc846",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "motion-advanced",
+      "source": "vendor/ecc/skills/motion-advanced/SKILL.md",
+      "sha256": "1ee09b942bf328ffa97148bed838ecc8789c1891ca441abccdca52b4c47a9742",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "motion-foundations",
+      "source": "vendor/ecc/skills/motion-foundations/SKILL.md",
+      "sha256": "ac0dd6de088e8cf2bff57230b365469e893c5f3a9578815a7f113689d0401972",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "motion-patterns",
+      "source": "vendor/ecc/skills/motion-patterns/SKILL.md",
+      "sha256": "9d78bcd2c3b52abdb6fb29162f289b9c709547de264ad064b12e00bedb031907",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "mybatis-patterns",
+      "source": "vendor/ecc/skills/mybatis-patterns/SKILL.md",
+      "sha256": "9b1d2d79222a57ab7bdbebeeb53a92aa87849f329a96c7df5b9ada651796f9f0",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "mysql-patterns",
+      "source": "vendor/ecc/skills/mysql-patterns/SKILL.md",
+      "sha256": "cab57c6a6d7e0bab99329945edda900811c40ec929b47aa95611f9df58f7391d",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "nanoclaw-repl",
+      "source": "vendor/ecc/skills/nanoclaw-repl/SKILL.md",
+      "sha256": "75786102fd1a49d1bbed11f75bc014a93e1bb2eed2cdc0088f1bad0e92d29291",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "nasiko-control-plane",
+      "source": "vendor/ecc/skills/nasiko-control-plane/SKILL.md",
+      "sha256": "086650c5a5d797530086a1f7a5f6d853034a30c75c53e2e4aa80e8df7192b52b",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "nestjs-patterns",
+      "source": "vendor/ecc/skills/nestjs-patterns/SKILL.md",
+      "sha256": "7f41406abaf10185d9a784e894108ded771a0177b1051e0b2c65d14f226bd581",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "netmiko-ssh-automation",
+      "source": "vendor/ecc/skills/netmiko-ssh-automation/SKILL.md",
+      "sha256": "6dc91c80144c2ad86a5f457c5377dc5193fd0b64dd3e1ca4433f70188a38e104",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "network-bgp-diagnostics",
+      "source": "vendor/ecc/skills/network-bgp-diagnostics/SKILL.md",
+      "sha256": "44a8d9ba4644f33cb86227e54641930a280fc4417ebce5c1744985b9f4913d03",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "network-config-validation",
+      "source": "vendor/ecc/skills/network-config-validation/SKILL.md",
+      "sha256": "08ba871a685d55e14e0866de27eb98a37ebf91dc2d0d06976c4acb4e99f76550",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "network-interface-health",
+      "source": "vendor/ecc/skills/network-interface-health/SKILL.md",
+      "sha256": "612cd44e1b80e10dd56f9a2296348cb48882fe24e2435654dae3b6447555e0a3",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "nextjs-turbopack",
+      "source": "vendor/ecc/skills/nextjs-turbopack/SKILL.md",
+      "sha256": "336034322d2022f47b097e55b5448cbc1e204c11f964910fa6fb3baeab06a474",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "nodejs-keccak256",
+      "source": "vendor/ecc/skills/nodejs-keccak256/SKILL.md",
+      "sha256": "973c1194e28b51f56895617abcbcca82a37d25282e7603700a6bf284459bebdb",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "nutrient-document-processing",
+      "source": "vendor/ecc/skills/nutrient-document-processing/SKILL.md",
+      "sha256": "2a8096af72efaeb29a4221929ac1f1ea9d97b95d44316720764fb7c191c7a5b9",
+      "host_references": false,
+      "external_credentials": [
+        "NUTRIENT_API_KEY",
+        "NUTRIENT_DWS_API_KEY",
+        "YOUR_API_KEY"
+      ]
+    },
+    {
+      "name": "nuxt4-patterns",
+      "source": "vendor/ecc/skills/nuxt4-patterns/SKILL.md",
+      "sha256": "8f99946d5aa8e11dae8ba1ade746a6a803efcba63ba8b618dbf7748331c14e47",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "openclaw-persona-forge",
+      "source": "vendor/ecc/skills/openclaw-persona-forge/SKILL.md",
+      "sha256": "3498442cf72ee7efbc4cc56553b48dbbb1a26d1d95eca4037aede69e164a9875",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "opensource-pipeline",
+      "source": "vendor/ecc/skills/opensource-pipeline/SKILL.md",
+      "sha256": "3ab255c9e465edeb1de4379eb75e4a2646d1229fb8638867d49b8cf2569fef5e",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "operator-approval-loop",
+      "source": "vendor/ecc/skills/operator-approval-loop/SKILL.md",
+      "sha256": "6f79952c1498c2748ea13d74ca665c7508ae72068e014e848dee0754e3d650e5",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "orch-add-feature",
+      "source": "vendor/ecc/skills/orch-add-feature/SKILL.md",
+      "sha256": "6ba858d94cfaa05f3b1e63ad09656285a4a33009e9cd837ebcaf093d39d29a25",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "orch-build-mvp",
+      "source": "vendor/ecc/skills/orch-build-mvp/SKILL.md",
+      "sha256": "ab8591b1b9a2711be93a9690bcee95ff8486faa00522aa8c0847d0481f7f64d9",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "orch-change-feature",
+      "source": "vendor/ecc/skills/orch-change-feature/SKILL.md",
+      "sha256": "d35ee5dfdf5f64e60e8905124eccf73267bc59852e7d11ba5ca5acf7d765c6f8",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "orch-fix-defect",
+      "source": "vendor/ecc/skills/orch-fix-defect/SKILL.md",
+      "sha256": "399e142bbf3751b5a0fdec1ae450f5673bd1a038304a221748c865280e885b2d",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "orch-pipeline",
+      "source": "vendor/ecc/skills/orch-pipeline/SKILL.md",
+      "sha256": "26707fc276a0a8489a5919c48af22f0c2c2d12724d3e031080200281f26a3f2e",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "orch-refine-code",
+      "source": "vendor/ecc/skills/orch-refine-code/SKILL.md",
+      "sha256": "5f0f468ffa4e220bd8f76684b3df6a14b67b34333e1ae52e0de49ed2c16fa17b",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "osint-investigation",
+      "source": "vendor/ecc/skills/osint-investigation/SKILL.md",
+      "sha256": "f30f873cb28cd3befc757dc7ea63d29250d6537c20c7fe4de8394fde0c2bd78b",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "parallel-execution-optimizer",
+      "source": "vendor/ecc/skills/parallel-execution-optimizer/SKILL.md",
+      "sha256": "7ffbdb0e88505d58be3f26154e6ce5f7e8703c36f696fe8bec352dc1f10e1ce6",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "perl-patterns",
+      "source": "vendor/ecc/skills/perl-patterns/SKILL.md",
+      "sha256": "617ced86628e866a6242ef763ec736d5f7ee3fa0a5afc34236d808db6de9c4b3",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "perl-security",
+      "source": "vendor/ecc/skills/perl-security/SKILL.md",
+      "sha256": "3d7b4040959c6bbdbeb4e02e841769931d54c3717d8492224878dbafa6c2c3cb",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "perl-testing",
+      "source": "vendor/ecc/skills/perl-testing/SKILL.md",
+      "sha256": "17723ed2249fa98d4ee7affc53bb479898725eb1a7466d46871bf215317fb79e",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "plan-canvas",
+      "source": "vendor/ecc/skills/plan-canvas/SKILL.md",
+      "sha256": "0ee9356f9305eb8ceec671753700a0a7a438c76dca9983ed87c66be0b5681b64",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "plan-orchestrate",
+      "source": "vendor/ecc/skills/plan-orchestrate/SKILL.md",
+      "sha256": "df127a46f7b5db2608f00da04d0cdfe5ed4a075ecc7e2876189e1de26c99d4fe",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "plankton-code-quality",
+      "source": "vendor/ecc/skills/plankton-code-quality/SKILL.md",
+      "sha256": "917920552320fdf0927a3bba61107eee8255dab469af80680dea40d671d51866",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "postgres-patterns",
+      "source": "vendor/ecc/skills/postgres-patterns/SKILL.md",
+      "sha256": "9c8c391ae9e9aa87faa7ca091e1d395c97766df14080d0bfbea8a97721776163",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "prediction-market-oracle-research",
+      "source": "vendor/ecc/skills/prediction-market-oracle-research/SKILL.md",
+      "sha256": "63f91f6e71839efc4b10be347fa160e402b9b72307f0a7e6ac0a50bd4b9fd8cb",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "prediction-market-risk-review",
+      "source": "vendor/ecc/skills/prediction-market-risk-review/SKILL.md",
+      "sha256": "19195e218716ed298fd8de9743e78462d17d95233b14e052c3bd1d1d7df31f91",
+      "host_references": false,
+      "external_credentials": [
+        "ITO_API_KEY"
+      ]
+    },
+    {
+      "name": "prisma-patterns",
+      "source": "vendor/ecc/skills/prisma-patterns/SKILL.md",
+      "sha256": "fb0c7644f32b22ee030071c71fa00bda1825f955f7304a375ef299a7290227f2",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "product-capability",
+      "source": "vendor/ecc/skills/product-capability/SKILL.md",
+      "sha256": "c26114356edb15f0340e5af66b6f4444892bdf376b053a7152312fd04d22aced",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "product-lens",
+      "source": "vendor/ecc/skills/product-lens/SKILL.md",
+      "sha256": "58b82c847304b0c4fbf456c1f4ae9205f3733e011f8cbdeed30687f111a098c6",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "production-audit",
+      "source": "vendor/ecc/skills/production-audit/SKILL.md",
+      "sha256": "3ab3dd8a364ee17566e9361f0ebed2aec3b3146ede44e1db0a72c5ceae1ca0a4",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "production-scheduling",
+      "source": "vendor/ecc/skills/production-scheduling/SKILL.md",
+      "sha256": "25704073f7bed19d61353ccba3ac1a988202375638637ff91b391b32c9053822",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "project-flow-ops",
+      "source": "vendor/ecc/skills/project-flow-ops/SKILL.md",
+      "sha256": "6d59e4118a91419fdc66cf51925371a3f9fad66881c5a1720ed1c5cc490df1f7",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "prompt-caching-strategy",
+      "source": "vendor/ecc/skills/prompt-caching-strategy/SKILL.md",
+      "sha256": "bde64446760754680a6e821fce96ed70e4a409adc7145cb056a815aa64eb5b81",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "prompt-optimizer",
+      "source": "vendor/ecc/skills/prompt-optimizer/SKILL.md",
+      "sha256": "e98058f34c3338014d0b9ef0c821d932d6820284d40d1eaf4f716bceb9147db0",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "python-patterns",
+      "source": "vendor/ecc/skills/python-patterns/SKILL.md",
+      "sha256": "103e0130dac33a49d26705fc5a2df804980fcab6a0138d65bc7f370a987d49f6",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "python-testing",
+      "source": "vendor/ecc/skills/python-testing/SKILL.md",
+      "sha256": "8f8c24020abbf953727c5995abce8aabeb28d2a593cbc39b7e5de36cf5002abd",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "pytorch-patterns",
+      "source": "vendor/ecc/skills/pytorch-patterns/SKILL.md",
+      "sha256": "168c8740f548414a75f576265ddb03329be98ed57f06c5edaf79c7cd4b6a9cf4",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "quality-nonconformance",
+      "source": "vendor/ecc/skills/quality-nonconformance/SKILL.md",
+      "sha256": "6aad53af0d1a5580f12f8901aca65946b29db88c5a394239d580cd0a57322edd",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "quarkus-patterns",
+      "source": "vendor/ecc/skills/quarkus-patterns/SKILL.md",
+      "sha256": "5f91bed186170a23837452508fc731ec4cada0a337ae95b1327f80311fa6ab6b",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "quarkus-security",
+      "source": "vendor/ecc/skills/quarkus-security/SKILL.md",
+      "sha256": "bb7c13aec927ec8d73f2e949eee2a4d44a9f908541e7d9acd7e2fd8f64f0ae3e",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "quarkus-tdd",
+      "source": "vendor/ecc/skills/quarkus-tdd/SKILL.md",
+      "sha256": "556d1c2d04e3e0ef10f474ed413013646088ff057f9be02d3a3c4f833ccc33c5",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "quarkus-verification",
+      "source": "vendor/ecc/skills/quarkus-verification/SKILL.md",
+      "sha256": "487818bf26f1ec34a08d5a9c11400ad2603bc70831cf0649a9fe20eaeadf0118",
+      "host_references": false,
+      "external_credentials": [
+        "CODECOV_TOKEN",
+        "SONAR_TOKEN"
+      ]
+    },
+    {
+      "name": "rails-patterns",
+      "source": "vendor/ecc/skills/rails-patterns/SKILL.md",
+      "sha256": "914ab8d9d907da06436a512180a65660fbb5d94cd04f56426e3b87a42357acd1",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "ralphinho-rfc-pipeline",
+      "source": "vendor/ecc/skills/ralphinho-rfc-pipeline/SKILL.md",
+      "sha256": "00d92ba603b5989a243b1d4c2f5442bb8451f1153dce2c42aed2a60c821507d6",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "react-native-patterns",
+      "source": "vendor/ecc/skills/react-native-patterns/SKILL.md",
+      "sha256": "caf04da7ea1f20213b010f24dc19a8a20f1939c928156caa2f0482f26c31b12b",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "react-patterns",
+      "source": "vendor/ecc/skills/react-patterns/SKILL.md",
+      "sha256": "f3208d44a5d553038c42e046cec4dc16e4a3d90a9dbf931f883a2e21919a64a9",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "react-performance",
+      "source": "vendor/ecc/skills/react-performance/SKILL.md",
+      "sha256": "ac76e8694d4f802a7bccc3c07a73ac68ace6d82a65ea10f10d8b7384dda61a8f",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "react-testing",
+      "source": "vendor/ecc/skills/react-testing/SKILL.md",
+      "sha256": "51c18b4e28285bb876ef469e47c6f53108b5a9f900950a60e897c3c24826a65e",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "recsys-pipeline-architect",
+      "source": "vendor/ecc/skills/recsys-pipeline-architect/SKILL.md",
+      "sha256": "309fe65f0ffdb44b62005c63ab9f460ddbe813f994e010316f7a2e55fc52e436",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "recursive-decision-ledger",
+      "source": "vendor/ecc/skills/recursive-decision-ledger/SKILL.md",
+      "sha256": "0c842b982a4ec80bb6487842ac8f019dc0f716c56e8363618a5f6d5a6de6e58e",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "redis-patterns",
+      "source": "vendor/ecc/skills/redis-patterns/SKILL.md",
+      "sha256": "6cabb1cd03174a0584ff3538371c780aba90da156db15260691278ed3307d8fe",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "regex-vs-llm-structured-text",
+      "source": "vendor/ecc/skills/regex-vs-llm-structured-text/SKILL.md",
+      "sha256": "5d7d04591ad656ba7b8064b2fa25e83936f8bd077449dac6cc599b4c41ce662a",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "remotion-video-creation",
+      "source": "vendor/ecc/skills/remotion-video-creation/SKILL.md",
+      "sha256": "dd727cadc4c1e179932b9736955ff3e537f75eeb759c038345ad9fe7d1bc55a9",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "repo-scan",
+      "source": "vendor/ecc/skills/repo-scan/SKILL.md",
+      "sha256": "b3318f6263629467d895d71a281cb64575d9d5de12c96d97cd1d19c66734e98e",
+      "host_references": true,
+      "external_credentials": [
+        "REPO_SCAN_TOKEN"
+      ]
+    },
+    {
+      "name": "research-ops",
+      "source": "vendor/ecc/skills/research-ops/SKILL.md",
+      "sha256": "114d0e5480ce3ad263316c639ce0c401396e1d9fbec3cf15b3c962ae16f376db",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "returns-reverse-logistics",
+      "source": "vendor/ecc/skills/returns-reverse-logistics/SKILL.md",
+      "sha256": "e5091d29cedd093a80321615d9670ebdb3c15856f3a99da644e07335167c86df",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "rules-distill",
+      "source": "vendor/ecc/skills/rules-distill/SKILL.md",
+      "sha256": "c451a63f96077f92ef6b40c4310f5a470a5d05103a181af518b115c4e828292c",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "rust-patterns",
+      "source": "vendor/ecc/skills/rust-patterns/SKILL.md",
+      "sha256": "51379df2bd92a482309e109e5a210210842594f660cceeb2d68d18e995108edf",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "rust-testing",
+      "source": "vendor/ecc/skills/rust-testing/SKILL.md",
+      "sha256": "02a9a40dcc42dd21d14730d29b13ee0a8b274694360585dc0fadb2602eb56ddf",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "safety-guard",
+      "source": "vendor/ecc/skills/safety-guard/SKILL.md",
+      "sha256": "30c54754d4f56c64841d4826658f4fb82aaca35db4f766b7f9990286dca2b2e0",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "santa-method",
+      "source": "vendor/ecc/skills/santa-method/SKILL.md",
+      "sha256": "942eb2301d759aec427771866779b431fa10129d11a4f058583770f68ca6baa7",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "scientific-db-pubmed-database",
+      "source": "vendor/ecc/skills/scientific-db-pubmed-database/SKILL.md",
+      "sha256": "5b4c406c73b0fdee3dbbc352fd7d51ee28702d589ea44f3229402fb513354a54",
+      "host_references": false,
+      "external_credentials": [
+        "NCBI_API_KEY"
+      ]
+    },
+    {
+      "name": "scientific-db-uspto-database",
+      "source": "vendor/ecc/skills/scientific-db-uspto-database/SKILL.md",
+      "sha256": "aeb87193dbafc68b5218612e4845ae3d6c3a040203ff8a625ed98661255fef58",
+      "host_references": false,
+      "external_credentials": [
+        "PATENTSVIEW_API_KEY",
+        "USPTO_API_KEY"
+      ]
+    },
+    {
+      "name": "scientific-pkg-gget",
+      "source": "vendor/ecc/skills/scientific-pkg-gget/SKILL.md",
+      "sha256": "9e7f11f0681ad90c91d665689053481a1be70de474855ff51c3d1cc84013d87b",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "scientific-thinking-literature-review",
+      "source": "vendor/ecc/skills/scientific-thinking-literature-review/SKILL.md",
+      "sha256": "380918f545c7e9b297b23bee4a0432deba977acbdb217232bf1ab9d5aa3c562e",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "scientific-thinking-scholar-evaluation",
+      "source": "vendor/ecc/skills/scientific-thinking-scholar-evaluation/SKILL.md",
+      "sha256": "079ed9182c086fbb2168b723f36cb167d4cb2272a10a41b131f38945d2f0b145",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "search-first",
+      "source": "vendor/ecc/skills/search-first/SKILL.md",
+      "sha256": "76835db48dd910061d2e4271b1151793d2fddbabeb2d2866eed068b3580c55d5",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "security-bounty-hunter",
+      "source": "vendor/ecc/skills/security-bounty-hunter/SKILL.md",
+      "sha256": "c94945165ca16ec06a04727dcbcf7a7593810d83fe168247c9c2d88c5a078611",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "security-review",
+      "source": "vendor/ecc/skills/security-review/SKILL.md",
+      "sha256": "b9eb6416eebc8dda046674f0a2dbb3be88aff526d182b60a0f55998d3d6d0d8d",
+      "host_references": false,
+      "external_credentials": [
+        "OPENAI_API_KEY"
+      ]
+    },
+    {
+      "name": "security-scan",
+      "source": "vendor/ecc/skills/security-scan/SKILL.md",
+      "sha256": "74bc3006fb15eef9cea6bf70a4e9cc45ec118ef00733d1c8226c9dc428f8d658",
+      "host_references": true,
+      "external_credentials": [
+        "ANTHROPIC_API_KEY"
+      ]
+    },
+    {
+      "name": "seo",
+      "source": "vendor/ecc/skills/seo/SKILL.md",
+      "sha256": "4b744d2ff5c9313e903e4e5139322cc98adb9f9778a7231d4826216ab0f6873a",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "skill-comply",
+      "source": "vendor/ecc/skills/skill-comply/SKILL.md",
+      "sha256": "e26cbbc30a32ea8c76c56d09ba9a3a921e82ad6e2360f825ec63d3f8df6b1f5a",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "skill-host-compat",
+      "source": "vendor/ecc/skills/skill-host-compat/SKILL.md",
+      "sha256": "246242187c2da04369c23d782ba0970bcb9b9fb74acb421161649e4c572d4b54",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "skill-scout",
+      "source": "vendor/ecc/skills/skill-scout/SKILL.md",
+      "sha256": "73ac14373108c29e35f6f950b43762e3e50848d693b712f7c3e989ec21e7abe8",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "skill-stocktake",
+      "source": "vendor/ecc/skills/skill-stocktake/SKILL.md",
+      "sha256": "3de326f8f87216b024bf524433b91607068d805286394d5ed8e293b4799b7314",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "social-graph-ranker",
+      "source": "vendor/ecc/skills/social-graph-ranker/SKILL.md",
+      "sha256": "24657648f76eb7b835fa71275980e704ebf798853565856623c1e3cd4fd7a183",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "social-publisher",
+      "source": "vendor/ecc/skills/social-publisher/SKILL.md",
+      "sha256": "701479fc0cd0cf7c856100447bd77605c0977fe4f23b81e31d4ca5868a2904f1",
+      "host_references": true,
+      "external_credentials": [
+        "SC_API_KEY"
+      ]
+    },
+    {
+      "name": "springboot-patterns",
+      "source": "vendor/ecc/skills/springboot-patterns/SKILL.md",
+      "sha256": "ff1884a8492d078d1bbb35f3ce0a8ae25f1ad95dab8596f4944a7c3110680946",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "springboot-security",
+      "source": "vendor/ecc/skills/springboot-security/SKILL.md",
+      "sha256": "566ecf928bf76812d15efd62e2f00841652e1618f0a97d8dda93e1c247a162c5",
+      "host_references": false,
+      "external_credentials": [
+        "VAULT_TOKEN"
+      ]
+    },
+    {
+      "name": "springboot-tdd",
+      "source": "vendor/ecc/skills/springboot-tdd/SKILL.md",
+      "sha256": "e4bd145484d93fb569eb0e1a09ffeb5cca68533d63c83805146b111c48bba172",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "springboot-verification",
+      "source": "vendor/ecc/skills/springboot-verification/SKILL.md",
+      "sha256": "c9449f169a3b920fd01875e3b2b2712c743c5fe8f469d2eabfe78886c590d04a",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "story-lifecycle",
+      "source": "vendor/ecc/skills/story-lifecycle/SKILL.md",
+      "sha256": "1492a724d4df362d8e95a340fabd22423e20965b1d0f9ebc6d2d319aca843194",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "strategic-compact",
+      "source": "vendor/ecc/skills/strategic-compact/SKILL.md",
+      "sha256": "1c3be090bffc100e31d185196cff0eb7075a877523cf41c19d781baca65b219f",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "swift-actor-persistence",
+      "source": "vendor/ecc/skills/swift-actor-persistence/SKILL.md",
+      "sha256": "438f75a3f37db2b8db699fb5d27a7207d0f31eace31d057b775ad152d6462c5c",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "swift-concurrency-6-2",
+      "source": "vendor/ecc/skills/swift-concurrency-6-2/SKILL.md",
+      "sha256": "00aed6a804ff7dc9b37d119cdb115d0869643dd84caf3c01d7f058398ab1955a",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "swift-protocol-di-testing",
+      "source": "vendor/ecc/skills/swift-protocol-di-testing/SKILL.md",
+      "sha256": "1e0b9fddf0a731956cdc686fb55dfa1862a5f172a5140299f4ec9d95c7a5e6e9",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "swiftui-patterns",
+      "source": "vendor/ecc/skills/swiftui-patterns/SKILL.md",
+      "sha256": "79e3c8b5b7c38fa04778b1084cddc2f8db5f671e682b0e9c1d5bd2f95800f690",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "taste",
+      "source": "vendor/ecc/skills/taste/SKILL.md",
+      "sha256": "c0aa611b4d150d2d8356fb29d0cc437e48a4e5ceeb870c609229b9afa78bb9cf",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "taste-application",
+      "source": "vendor/ecc/skills/taste-application/SKILL.md",
+      "sha256": "422a07f05e0dfc16a1bcc14895ff6f34891473ddec28981c4fa7986591165d2e",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "taste-distillation",
+      "source": "vendor/ecc/skills/taste-distillation/SKILL.md",
+      "sha256": "7aa53f4a4cc7a959da5b60d77a6f43e5541cb3a95aa982fea73a2b706d9cd408",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "tasteforge-video",
+      "source": "vendor/ecc/skills/tasteforge-video/SKILL.md",
+      "sha256": "8c7e696fa6e34fa1722d9b8e7b8d8ca819aff68a660d85a35d7eca3f4541272a",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "tdd-workflow",
+      "source": "vendor/ecc/skills/tdd-workflow/SKILL.md",
+      "sha256": "b6a8dd3e5215641cd9c33a46eae1d2b87508a07bc451e2c2fe25591f33a6b519",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "team-agent-orchestration",
+      "source": "vendor/ecc/skills/team-agent-orchestration/SKILL.md",
+      "sha256": "a64dbdf4b6df857c044d6b38cf23324fcd7d2c139ba1cfcd39535e8c928c49a3",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "team-builder",
+      "source": "vendor/ecc/skills/team-builder/SKILL.md",
+      "sha256": "23ce20d4d50be35d4b6cfe7facc01010983e18cb95c4aaf3d100338ca55e671b",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "terminal-opener",
+      "source": "vendor/ecc/skills/terminal-opener/SKILL.md",
+      "sha256": "679b8aca9af3f47450d437fed7a71ac9c1272b6196224ddad8fead218f5f16ab",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "terminal-ops",
+      "source": "vendor/ecc/skills/terminal-ops/SKILL.md",
+      "sha256": "f26e518e6922fe0796f5b6a55349a409f5b03745c4eeed9be80b4c66d890d852",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "test-collaboration",
+      "source": "vendor/ecc/skills/test-collaboration/SKILL.md",
+      "sha256": "741138330940e2c9d3cc7bec9e671787f24a361ff89be44e09a56abc8e10dcfa",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "tinystruct-patterns",
+      "source": "vendor/ecc/skills/tinystruct-patterns/SKILL.md",
+      "sha256": "acd1f6712f8f81423a8e61d4f4e774dbc0963f8c2a91c7fce7db77a35d07152c",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "token-budget-advisor",
+      "source": "vendor/ecc/skills/token-budget-advisor/SKILL.md",
+      "sha256": "7f037a58306a6bd5c5a024491a6c4529cd8373309e413eda517ad2430420e25a",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "token-card",
+      "source": "vendor/ecc/skills/token-card/SKILL.md",
+      "sha256": "ac297ba33187d7d2d66a6b151b1492a8757aac64938715f6eaabfbb1287cfd26",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "typescript-patterns",
+      "source": "vendor/ecc/skills/typescript-patterns/SKILL.md",
+      "sha256": "826b574c2dfc0421143e65a2808e753f2341677be7c925e4bf0ee4d3a0c3c301",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "ui-demo",
+      "source": "vendor/ecc/skills/ui-demo/SKILL.md",
+      "sha256": "893eee77f98f52d28bffa6bbababa7481300cc13535dea519fa0cc1b0168b2f8",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "ui-to-vue",
+      "source": "vendor/ecc/skills/ui-to-vue/SKILL.md",
+      "sha256": "cb6c17f7ae28a53b31fb2904180521ccdaa31ad0deafa96c6b4f5b2f4bfea480",
+      "host_references": false,
+      "external_credentials": [
+        "DASHSCOPE_API_KEY"
+      ]
+    },
+    {
+      "name": "uncloud",
+      "source": "vendor/ecc/skills/uncloud/SKILL.md",
+      "sha256": "cc2383ca4459a686ccda87ac08b2a1953028d91076e6a83f29e4c99de5f2fb7f",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "unified-memory",
+      "source": "vendor/ecc/skills/unified-memory/SKILL.md",
+      "sha256": "c42e96155783a44a50f13ab63e9d7f33c9d03b7a1f30777ef434401469c1630a",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "unified-notifications-ops",
+      "source": "vendor/ecc/skills/unified-notifications-ops/SKILL.md",
+      "sha256": "0ade130619dfc73781d6a4beaf79b65b6d3ac70f0751dce0844a8f9fd39167aa",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "verification-loop",
+      "source": "vendor/ecc/skills/verification-loop/SKILL.md",
+      "sha256": "9ee288d426660b0c785f534a003a4960fb4d8083a21302d8a4fd9b035b2edbb1",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "video-editing",
+      "source": "vendor/ecc/skills/video-editing/SKILL.md",
+      "sha256": "4ab8c9ef5a511e8a0de9ed375b9edbbfa74f23a0881519d2aceea67e7252b197",
+      "host_references": true,
+      "external_credentials": [
+        "ELEVENLABS_API_KEY"
+      ]
+    },
+    {
+      "name": "videodb",
+      "source": "vendor/ecc/skills/videodb/SKILL.md",
+      "sha256": "e9e3f9738c2919e1e152240b193663386739f2012eb9b43f884dfe9a80b88b04",
+      "host_references": true,
+      "external_credentials": [
+        "VIDEO_DB_API_KEY"
+      ]
+    },
+    {
+      "name": "visa-doc-translate",
+      "source": "vendor/ecc/skills/visa-doc-translate/SKILL.md",
+      "sha256": "528a180f10389f3228980a487f004e0eaccccf00be0d88073a554001c36bcd89",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "vite-patterns",
+      "source": "vendor/ecc/skills/vite-patterns/SKILL.md",
+      "sha256": "2238d353196b6732ba897e32f1872078fde7a9d11f5aca43b53da8bfc7e3917d",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "vue-patterns",
+      "source": "vendor/ecc/skills/vue-patterns/SKILL.md",
+      "sha256": "65e322383510de25bd5fc6fce4b0980d99d38b341f09bea662bd9a410e20c016",
+      "host_references": false,
+      "external_credentials": []
+    },
+    {
+      "name": "windows-desktop-e2e",
+      "source": "vendor/ecc/skills/windows-desktop-e2e/SKILL.md",
+      "sha256": "cbc93a1e2514ecdcee30da744aa13eb6c0ebe4948ca3dfff52b287df4f9f0814",
+      "host_references": true,
+      "external_credentials": []
+    },
+    {
+      "name": "workspace-surface-audit",
+      "source": "vendor/ecc/skills/workspace-surface-audit/SKILL.md",
+      "sha256": "ca6eadae6bd303713da56344bedbd8b246fe07bde1d20a26c9f21844d919cd6f",
+      "host_references": true,
+      "external_credentials": [
+        "STRIPE_API_KEY",
+        "TWILIO_AUTH_TOKEN"
+      ]
+    },
+    {
+      "name": "x-api",
+      "source": "vendor/ecc/skills/x-api/SKILL.md",
+      "sha256": "997937ac9dc11779c6bb6c16833630836a22f1b2f115482982f6350474fa8ff1",
+      "host_references": true,
+      "external_credentials": [
+        "X_ACCESS_TOKEN",
+        "X_API_KEY",
+        "X_BEARER_TOKEN"
+      ]
+    },
+    {
+      "name": "source-command-auto-update",
+      "source": "vendor/ecc/commands/auto-update.md",
+      "sha256": "62d0ba8ffb66b721b2246420239a0932a7edc38ab143651d06a49c7e989fb443",
+      "host_references": true,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-build-fix",
+      "source": "vendor/ecc/commands/build-fix.md",
+      "sha256": "2620e3b8733d227205b0d48c3ac0b68db026c6bb97a3049bf927917d7eb51189",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-cpp-review",
+      "source": "vendor/ecc/commands/cpp-review.md",
+      "sha256": "58a0e058207bb8e96d6fe02f1a71db77157f30121dd5c7aec32c0f4a91523576",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-ecc-guide",
+      "source": "vendor/ecc/commands/ecc-guide.md",
+      "sha256": "e96cf0365e21f2b54270de6564593c274867ded288b86cd8e8a708b44d12d83d",
+      "host_references": true,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-epic-claim",
+      "source": "vendor/ecc/commands/epic-claim.md",
+      "sha256": "fab151e31f5ed680cff1e171c65870ab18dbdd481fe5b94378dc57f98b0eb6ab",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-epic-decompose",
+      "source": "vendor/ecc/commands/epic-decompose.md",
+      "sha256": "cc5ddee38eb6f87bc995e686b474b8b57e04aaf35394cfaaa3fd1ae5a579d5b1",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-epic-publish",
+      "source": "vendor/ecc/commands/epic-publish.md",
+      "sha256": "d13da877f7e0a4a632a7bbc2acf5e9fb1e28ad1d6b554f2c7cd7dd3198ce4cd4",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-epic-review",
+      "source": "vendor/ecc/commands/epic-review.md",
+      "sha256": "4c9ce11bb8d7375f6d2128e0883071ccbf4162df8ed445e565706983f6c17b42",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-epic-sync",
+      "source": "vendor/ecc/commands/epic-sync.md",
+      "sha256": "b191bedc4bfafb8a03818042dbc87ed175930e27a042c112c219912626dceb79",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-epic-unblock",
+      "source": "vendor/ecc/commands/epic-unblock.md",
+      "sha256": "48c1868f03b6ceda7a923d98c76206a35eefa91774a61a0d9d4c18ea5713a4e7",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-epic-validate",
+      "source": "vendor/ecc/commands/epic-validate.md",
+      "sha256": "894516dd4de62c6c28254c841f11a6ae461869cb8e78c4eff984fb108c2d92ad",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-fastapi-review",
+      "source": "vendor/ecc/commands/fastapi-review.md",
+      "sha256": "758f6c55befc3255e5b1c1dc6df41453b21543a93b6aa9df0fb1be9e334831a8",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-feature-dev",
+      "source": "vendor/ecc/commands/feature-dev.md",
+      "sha256": "b446c316f680a1ab709f2eabff15d5e88b57396f4581ea8b0f9260d04bd4be34",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-go-build",
+      "source": "vendor/ecc/commands/go-build.md",
+      "sha256": "916659397d2e01f9bf211fca43a8a2f79eb73d6382fccd516b240b5d0e5f37a0",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-go-review",
+      "source": "vendor/ecc/commands/go-review.md",
+      "sha256": "73a29ec62007e25490d0962ed52fe196eac3df31c6ccd774b10c9a8e07b63b39",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-gradle-build",
+      "source": "vendor/ecc/commands/gradle-build.md",
+      "sha256": "c2aa086148316326ae10ee97229d040a0b7a9b743c016bfad4032ce96bb097a9",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-hookify",
+      "source": "vendor/ecc/commands/hookify.md",
+      "sha256": "1e2297e2b80d9473a9af1b4999b9a67366e2337b16ba5022b88bf17ab7ca5130",
+      "host_references": true,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-hookify-configure",
+      "source": "vendor/ecc/commands/hookify-configure.md",
+      "sha256": "a059c23f885d36e3597daa03b7bf77cbb79a2a87e5856ca4bede4eb3b816082a",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-hookify-help",
+      "source": "vendor/ecc/commands/hookify-help.md",
+      "sha256": "088f97d3ce97c43f47a1e02ab9c7fbe0f4ee1917c96d9f56d30be0a1813586d9",
+      "host_references": true,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-hookify-list",
+      "source": "vendor/ecc/commands/hookify-list.md",
+      "sha256": "b513140d7a93527d5d8beabd4cb1aacaa296c00ac96586bc946466014f31a3cc",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-instinct-export",
+      "source": "vendor/ecc/commands/instinct-export.md",
+      "sha256": "cd2052ae1b9c49f75ad81aae6e236be959cc6656d32e3b8f3e6e13d2d3bd2d3c",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-instinct-import",
+      "source": "vendor/ecc/commands/instinct-import.md",
+      "sha256": "30514ada563953a1eafa46a09644831969aaae7672068777267e0b801814e7d9",
+      "host_references": true,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-instinct-status",
+      "source": "vendor/ecc/commands/instinct-status.md",
+      "sha256": "7a99d6cf83c7a31f473fdda8a9be84d21ceb97ac51ba8802a7c768c7a2213c11",
+      "host_references": true,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-jira",
+      "source": "vendor/ecc/commands/jira.md",
+      "sha256": "0503ced85e1144d03c1bb32f0f34003c9cc6c8f17d05a516ce6d5902a5f62c8b",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-learn",
+      "source": "vendor/ecc/commands/learn.md",
+      "sha256": "8fbb0ee1f344f47f4f1b8595231338a28bdc0c015daa4644af3b343194bae0d1",
+      "host_references": true,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-plan-canvas",
+      "source": "vendor/ecc/commands/plan-canvas.md",
+      "sha256": "7c5869ed155e88a1bf78f760b983d958e913f2594752bd9c5f78134e32eaf1df",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-projects",
+      "source": "vendor/ecc/commands/projects.md",
+      "sha256": "dc939242028d24119b985e6ad4fee3d6c8185f6bd19c716535384149bc9876f3",
+      "host_references": true,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-promote",
+      "source": "vendor/ecc/commands/promote.md",
+      "sha256": "8d2faf47b1322c24a1dfa221b2f5e85b9e766fcd1d460c157c472246a3b86846",
+      "host_references": true,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-prune",
+      "source": "vendor/ecc/commands/prune.md",
+      "sha256": "19addecbc1b224deda7e3a55a16f7412a973958e4be9cdaeeb93449ee9d37598",
+      "host_references": true,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-refactor-clean",
+      "source": "vendor/ecc/commands/refactor-clean.md",
+      "sha256": "be911e404a89e79cc878e20ba28b0feeacc2350db8710624622d88a453bf13db",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-review-pr",
+      "source": "vendor/ecc/commands/review-pr.md",
+      "sha256": "48968023b079cd4952cd4f750a0d3ea537643871d17c441ec88a16a14fe81954",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-setup-pm",
+      "source": "vendor/ecc/commands/setup-pm.md",
+      "sha256": "163b3cd106028d21dbd2a91b47f1cf99957e40a78ed9e5e5dc8507e225f73a2d",
+      "host_references": true,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-test-coverage",
+      "source": "vendor/ecc/commands/test-coverage.md",
+      "sha256": "f492c2dac27b98118cf965ae3071e044d7292ae9299e661bb01e2e6109d20711",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-token-card",
+      "source": "vendor/ecc/commands/token-card.md",
+      "sha256": "cad2f65d77a286cf499a5102f2d573fd8cc24ef5c29e44a8e66f8ae2ce45e12c",
+      "host_references": true,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-update-codemaps",
+      "source": "vendor/ecc/commands/update-codemaps.md",
+      "sha256": "dee7709ae4044862fd947e17048f8af170145b70ac53dfe01caa672a903853ea",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    },
+    {
+      "name": "source-command-update-docs",
+      "source": "vendor/ecc/commands/update-docs.md",
+      "sha256": "f0f4645d697c7c5874b79c64218cd2057a291cc6301f6a044cb2bac5ccc14f4a",
+      "host_references": false,
+      "external_credentials": [],
+      "migrated_command": true
+    }
+  ],
+  "agents": [
+    {
+      "name": "a11y-architect",
+      "role": "cek_a11y_architect",
+      "description": "Accessibility Architect specializing in WCAG 2.2 compliance for Web and Native platforms. Use PROACTIVELY when designing UI components, establishing design systems, or auditing code for inclusive user experiences.",
+      "file": "agents/a11y-architect.toml",
+      "source": "vendor/ecc/agents/a11y-architect.md",
+      "sha256": "88e684476cbc449a2444a1218a79034d275465f375ce45b6d86ab99958bf45e7"
+    },
+    {
+      "name": "agent-evaluator",
+      "role": "cek_agent_evaluator",
+      "description": "Evaluates agent output against 5-axis quality rubric (accuracy, completeness, clarity, actionability, conciseness). Use after any non-trivial task when the user wants a quality assessment, or when the agent-self-evaluation skill is active. Produces structured scorecard with evidence and improvement suggestions.",
+      "file": "agents/agent-evaluator.toml",
+      "source": "vendor/ecc/agents/agent-evaluator.md",
+      "sha256": "7ef0739152e7bbc837e9bab4fbae7164f29719a4d1dbdaa1e3b62b4f34358e3c"
+    },
+    {
+      "name": "architect",
+      "role": "cek_architect",
+      "description": "Software architecture specialist for system design, scalability, and technical decision-making. Use PROACTIVELY when planning new features, refactoring large systems, or making architectural decisions.",
+      "file": "agents/architect.toml",
+      "source": "vendor/ecc/agents/architect.md",
+      "sha256": "6b8e1e8bd274995f3949691731f4334820c061d3054eaea3be2ce163386d1f24"
+    },
+    {
+      "name": "bengali-reviewer",
+      "role": "cek_bengali_reviewer",
+      "description": "Reviews code handling Bengali (Bangla) text for Unicode correctness, proper normalization, script-aware processing, and internationalization best practices. Use when code processes, displays, or stores Bengali text.",
+      "file": "agents/bengali-reviewer.toml",
+      "source": "vendor/ecc/agents/bengali-reviewer.md",
+      "sha256": "ad93abe7b04a2606b671fe7a86e3980565a55bee939b4eccedfccfea7107fd5a"
+    },
+    {
+      "name": "build-error-resolver",
+      "role": "cek_build_error_resolver",
+      "description": "Build and TypeScript error resolution specialist. Use PROACTIVELY when build fails or type errors occur. Fixes build/type errors only with minimal diffs, no architectural edits. Focuses on getting the build green quickly.",
+      "file": "agents/build-error-resolver.toml",
+      "source": "vendor/ecc/agents/build-error-resolver.md",
+      "sha256": "acc9e14df59dd28d00f966b3a6cf0d9aeeda7e8a9ab7f1bc442466c0219c35ec"
+    },
+    {
+      "name": "chief-of-staff",
+      "role": "cek_chief_of_staff",
+      "description": "Personal communication chief of staff that triages email, Slack, LINE, and Messenger. Classifies messages into 4 tiers (skip/info_only/meeting_info/action_required), generates draft replies, and enforces post-send follow-through via hooks. Use when managing multi-channel communication workflows.",
+      "file": "agents/chief-of-staff.toml",
+      "source": "vendor/ecc/agents/chief-of-staff.md",
+      "sha256": "d3dca9a474011410256dfcd0cc553f926bd30b4efdaaf6ec41b4f6ec86e88e6f"
+    },
+    {
+      "name": "code-architect",
+      "role": "cek_code_architect",
+      "description": "Designs feature architectures by analyzing existing codebase patterns and conventions, then providing implementation blueprints with concrete files, interfaces, data flow, and build order.",
+      "file": "agents/code-architect.toml",
+      "source": "vendor/ecc/agents/code-architect.md",
+      "sha256": "1a2ce1d231b7427ff863522f6f19e7738cd668279ac60af520aa0c45ac14772b"
+    },
+    {
+      "name": "code-explorer",
+      "role": "cek_code_explorer",
+      "description": "Deeply analyzes existing codebase features by tracing execution paths, mapping architecture layers, and documenting dependencies to inform new development.",
+      "file": "agents/code-explorer.toml",
+      "source": "vendor/ecc/agents/code-explorer.md",
+      "sha256": "3dbb33769147f6c7ffb739c550b7b8867e1b8ea84f1179197fdbc3028dc34fb7"
+    },
+    {
+      "name": "code-reviewer",
+      "role": "cek_code_reviewer",
+      "description": "Expert code review specialist. Proactively reviews code for quality, security, and maintainability. Use immediately after writing or modifying code. MUST BE USED for all code changes.",
+      "file": "agents/code-reviewer.toml",
+      "source": "vendor/ecc/agents/code-reviewer.md",
+      "sha256": "9dd23be23d65f18126e10f7680fc1eb2576ec54a427d076ff2f870bd0bafd5d2"
+    },
+    {
+      "name": "code-simplifier",
+      "role": "cek_code_simplifier",
+      "description": "Simplifies and refines code for clarity, consistency, and maintainability while preserving behavior. Focus on recently modified code unless instructed otherwise.",
+      "file": "agents/code-simplifier.toml",
+      "source": "vendor/ecc/agents/code-simplifier.md",
+      "sha256": "4020b1466f4a635ed33b87a3d734bda45363514defc7d1613b81d5c59e426c6b"
+    },
+    {
+      "name": "comment-analyzer",
+      "role": "cek_comment_analyzer",
+      "description": "Analyze code comments for accuracy, completeness, maintainability, and comment rot risk.",
+      "file": "agents/comment-analyzer.toml",
+      "source": "vendor/ecc/agents/comment-analyzer.md",
+      "sha256": "ce7fdf759885ba9ef5ee1bdc9da4ce88d78ba65501facf53e581082fcf402b07"
+    },
+    {
+      "name": "commit-reviewer",
+      "role": "cek_commit_reviewer",
+      "description": "Reviews a staged diff and drafts a Conventional Commits-compliant message matching the repository's actual history norms. Use before committing, or when asked to write or check a commit message.",
+      "file": "agents/commit-reviewer.toml",
+      "source": "vendor/ecc/agents/commit-reviewer.md",
+      "sha256": "b6e8bb0a3bab270ef6c53f68f829e5c86f2725c159b790962a6cd2dc648d2a26"
+    },
+    {
+      "name": "conversation-analyzer",
+      "role": "cek_conversation_analyzer",
+      "description": "Use this agent when analyzing conversation transcripts to find behaviors worth preventing with hooks. Triggered by /hookify without arguments.",
+      "file": "agents/conversation-analyzer.toml",
+      "source": "vendor/ecc/agents/conversation-analyzer.md",
+      "sha256": "f86fcf4317a41158dc55641f606c97a8d4d3ccacf7157ff70e0811ca7b42ba75"
+    },
+    {
+      "name": "cpp-build-resolver",
+      "role": "cek_cpp_build_resolver",
+      "description": "C++ build, CMake, and compilation error resolution specialist. Fixes build errors, linker issues, and template errors with minimal changes. Use when C++ builds fail.",
+      "file": "agents/cpp-build-resolver.toml",
+      "source": "vendor/ecc/agents/cpp-build-resolver.md",
+      "sha256": "0a06faff0f6be85989a22c79647743d872c3348ca772ee860f048035473c1675"
+    },
+    {
+      "name": "cpp-reviewer",
+      "role": "cek_cpp_reviewer",
+      "description": "Expert C++ code reviewer specializing in memory safety, modern C++ idioms, concurrency, and performance. Use for all C++ code changes. MUST BE USED for C++ projects.",
+      "file": "agents/cpp-reviewer.toml",
+      "source": "vendor/ecc/agents/cpp-reviewer.md",
+      "sha256": "c34ee3291505ea66d4330268babbd9cbc899e32b7869ca71cca1690b4ce3cf22"
+    },
+    {
+      "name": "csharp-reviewer",
+      "role": "cek_csharp_reviewer",
+      "description": "Expert C# code reviewer specializing in .NET conventions, async patterns, security, nullable reference types, and performance. Use for all C# code changes. MUST BE USED for C# projects.",
+      "file": "agents/csharp-reviewer.toml",
+      "source": "vendor/ecc/agents/csharp-reviewer.md",
+      "sha256": "34652d6a39387d0d008a90804b1b271ae62bba77abaf9537b79bd7705b1724e0"
+    },
+    {
+      "name": "dart-build-resolver",
+      "role": "cek_dart_build_resolver",
+      "description": "Dart/Flutter build, analysis, and dependency error resolution specialist. Fixes `dart analyze` errors, Flutter compilation failures, pub dependency conflicts, and build_runner issues with minimal, surgical changes. Use when Dart/Flutter builds fail.",
+      "file": "agents/dart-build-resolver.toml",
+      "source": "vendor/ecc/agents/dart-build-resolver.md",
+      "sha256": "2715aa7b58fae3667493a089afbfa891dfe20d24e555e90ddfdd732d10104d1f"
+    },
+    {
+      "name": "database-reviewer",
+      "role": "cek_database_reviewer",
+      "description": "PostgreSQL database specialist for query optimization, schema design, security, and performance. Use PROACTIVELY when writing SQL, creating migrations, designing schemas, or troubleshooting database performance. Incorporates Supabase best practices.",
+      "file": "agents/database-reviewer.toml",
+      "source": "vendor/ecc/agents/database-reviewer.md",
+      "sha256": "945c107dea01ca74e3e9bc3a5841e79e744673e8f14697e88cf1cfd9c01a1cc5"
+    },
+    {
+      "name": "django-build-resolver",
+      "role": "cek_django_build_resolver",
+      "description": "Django/Python build, migration, and dependency error resolution specialist. Fixes pip/Poetry errors, migration conflicts, import errors, Django configuration issues, and collectstatic failures with minimal changes. Use when Django setup or startup fails.",
+      "file": "agents/django-build-resolver.toml",
+      "source": "vendor/ecc/agents/django-build-resolver.md",
+      "sha256": "643f1445336ef801f49cc56a00ad09af3435124ef841f4b023be19ee50662b29"
+    },
+    {
+      "name": "django-reviewer",
+      "role": "cek_django_reviewer",
+      "description": "Expert Django code reviewer specializing in ORM correctness, DRF patterns, migration safety, security misconfigurations, and production-grade Django practices. Use for all Django code changes. MUST BE USED for Django projects.",
+      "file": "agents/django-reviewer.toml",
+      "source": "vendor/ecc/agents/django-reviewer.md",
+      "sha256": "d116bccee67db3d1f52f54f819a04467fe7dd2b0004ec85d21f218a6aacf6346"
+    },
+    {
+      "name": "doc-updater",
+      "role": "cek_doc_updater",
+      "description": "Documentation and codemap specialist. Use PROACTIVELY for updating codemaps and documentation. Generates docs/CODEMAPS/*, updates READMEs and guides. Backs the /update-codemaps and /update-docs commands.",
+      "file": "agents/doc-updater.toml",
+      "source": "vendor/ecc/agents/doc-updater.md",
+      "sha256": "5018d3a0bf740d2263fd4b7a92412d53a62d4be151a71221d6549cacba62d72c"
+    },
+    {
+      "name": "docs-lookup",
+      "role": "cek_docs_lookup",
+      "description": "When the user asks how to use a library, framework, or API or needs up-to-date code examples, use Context7 MCP to fetch current documentation and return answers with examples. Invoke for docs/API/setup questions.",
+      "file": "agents/docs-lookup.toml",
+      "source": "vendor/ecc/agents/docs-lookup.md",
+      "sha256": "11560171e4535419e7917158d0de3bc7bbbf0408f83f61f0f3558b356802419e"
+    },
+    {
+      "name": "e2e-runner",
+      "role": "cek_e2e_runner",
+      "description": "End-to-end testing specialist using Vercel Agent Browser (preferred) with Playwright fallback. Use PROACTIVELY for generating, maintaining, and running E2E tests. Manages test journeys, quarantines flaky tests, uploads artifacts (screenshots, videos, traces), and ensures critical user flows work.",
+      "file": "agents/e2e-runner.toml",
+      "source": "vendor/ecc/agents/e2e-runner.md",
+      "sha256": "94811f4bbc491c351cdf220ab103d6bd251fb1d88d9d46ba4c8162637a236a5b"
+    },
+    {
+      "name": "fastapi-reviewer",
+      "role": "cek_fastapi_reviewer",
+      "description": "Reviews FastAPI applications for async correctness, dependency injection, Pydantic schemas, security, OpenAPI quality, testing, and production readiness.",
+      "file": "agents/fastapi-reviewer.toml",
+      "source": "vendor/ecc/agents/fastapi-reviewer.md",
+      "sha256": "d8704e52fda045fa72cfc51de7937aa4e313b2161279ff8e11d878f6ab8a0d81"
+    },
+    {
+      "name": "flutter-reviewer",
+      "role": "cek_flutter_reviewer",
+      "description": "Flutter and Dart code reviewer. Reviews Flutter code for widget best practices, state management patterns, Dart idioms, performance pitfalls, accessibility, and clean architecture violations. Library-agnostic — works with any state management solution and tooling.",
+      "file": "agents/flutter-reviewer.toml",
+      "source": "vendor/ecc/agents/flutter-reviewer.md",
+      "sha256": "26a78d27db9a035204c9c517314c880a5ea4419500da319acdb643b84d59b0b8"
+    },
+    {
+      "name": "fsharp-reviewer",
+      "role": "cek_fsharp_reviewer",
+      "description": "Expert F# code reviewer specializing in functional idioms, type safety, pattern matching, computation expressions, and performance. Use for all F# code changes. MUST BE USED for F# projects.",
+      "file": "agents/fsharp-reviewer.toml",
+      "source": "vendor/ecc/agents/fsharp-reviewer.md",
+      "sha256": "24200e4814ddbdb32ed2eeb5b6aecabbb3d655d5ba0de7b2a054638fe12e7c5a"
+    },
+    {
+      "name": "gan-evaluator",
+      "role": "cek_gan_evaluator",
+      "description": "GAN Harness — Evaluator agent. Tests the live running application via Playwright, scores against rubric, and provides actionable feedback to the Generator.",
+      "file": "agents/gan-evaluator.toml",
+      "source": "vendor/ecc/agents/gan-evaluator.md",
+      "sha256": "e5c8e6ab245ce97502472ae5223e529cc3d1c4c84527f4c19bcca3d362513322"
+    },
+    {
+      "name": "gan-generator",
+      "role": "cek_gan_generator",
+      "description": "GAN Harness — Generator agent. Implements features according to the spec, reads evaluator feedback, and iterates until quality threshold is met.",
+      "file": "agents/gan-generator.toml",
+      "source": "vendor/ecc/agents/gan-generator.md",
+      "sha256": "52411e8bb705284ef0be36a86b9df69d7365cda84a2780d5e3c2d64e6019a352"
+    },
+    {
+      "name": "gan-planner",
+      "role": "cek_gan_planner",
+      "description": "GAN Harness — Planner agent. Expands a one-line prompt into a full product specification with features, sprints, evaluation criteria, and design direction.",
+      "file": "agents/gan-planner.toml",
+      "source": "vendor/ecc/agents/gan-planner.md",
+      "sha256": "852f8ac7cc1761186ec6f48e1b1be65cc32307a182062e0cebb84aae2d3ca901"
+    },
+    {
+      "name": "go-build-resolver",
+      "role": "cek_go_build_resolver",
+      "description": "Go build, vet, and compilation error resolution specialist. Fixes build errors, go vet issues, and linter warnings with minimal changes. Use when Go builds fail.",
+      "file": "agents/go-build-resolver.toml",
+      "source": "vendor/ecc/agents/go-build-resolver.md",
+      "sha256": "fa191d2a3c66915402b343a8f2da21090bb330968e62a8615739acccfce90424"
+    },
+    {
+      "name": "go-reviewer",
+      "role": "cek_go_reviewer",
+      "description": "Expert Go code reviewer specializing in idiomatic Go, concurrency patterns, error handling, and performance. Use for all Go code changes. MUST BE USED for Go projects.",
+      "file": "agents/go-reviewer.toml",
+      "source": "vendor/ecc/agents/go-reviewer.md",
+      "sha256": "be174fc66f6be1ade25f496548ba7040c00894aec81da163863b046d44233e39"
+    },
+    {
+      "name": "harmonyos-app-resolver",
+      "role": "cek_harmonyos_app_resolver",
+      "description": "HarmonyOS application development expert specializing in ArkTS and ArkUI. Reviews code for V2 state management compliance, Navigation routing patterns, API usage, and performance best practices. Use for HarmonyOS/OpenHarmony projects.",
+      "file": "agents/harmonyos-app-resolver.toml",
+      "source": "vendor/ecc/agents/harmonyos-app-resolver.md",
+      "sha256": "2385d05160744130f6f5fadbae0314a7500db92da13719779dac41eb53ae1202"
+    },
+    {
+      "name": "harness-optimizer",
+      "role": "cek_harness_optimizer",
+      "description": "Improve local agent-harness configuration reliability and cost using eval-driven grading (pass@k/pass^k) derived from the eval-harness skill.",
+      "file": "agents/harness-optimizer.toml",
+      "source": "vendor/ecc/agents/harness-optimizer.md",
+      "sha256": "54444fd46afdfacb87a885bef4dcef129915740d35b5fe6f07a5a7e804f2b053"
+    },
+    {
+      "name": "healthcare-reviewer",
+      "role": "cek_healthcare_reviewer",
+      "description": "Reviews healthcare application code for clinical safety, CDSS accuracy, PHI compliance, and medical data integrity. Specialized for EMR/EHR, clinical decision support, and health information systems.",
+      "file": "agents/healthcare-reviewer.toml",
+      "source": "vendor/ecc/agents/healthcare-reviewer.md",
+      "sha256": "ffe0855862276f94bd47fbbdeba0d233b7ca2c8647bce784c94f61c382e3cc69"
+    },
+    {
+      "name": "homelab-architect",
+      "role": "cek_homelab_architect",
+      "description": "Designs home and small-lab network plans from hardware inventory, goals, and operator experience level, with safe staged changes and rollback guidance.",
+      "file": "agents/homelab-architect.toml",
+      "source": "vendor/ecc/agents/homelab-architect.md",
+      "sha256": "d851727c8d07d2c44ea953d1ccab812865de3ba4b693d0392e86ba52187664bc"
+    },
+    {
+      "name": "java-build-resolver",
+      "role": "cek_java_build_resolver",
+      "description": "Java/Maven/Gradle build, compilation, and dependency error resolution specialist. Automatically detects Spring Boot or Quarkus and applies framework-specific fixes. Fixes build errors, Java compiler errors, and Maven/Gradle issues with minimal changes. Use when Java builds fail.",
+      "file": "agents/java-build-resolver.toml",
+      "source": "vendor/ecc/agents/java-build-resolver.md",
+      "sha256": "6dc1da9c6ac9f39671dcf1013a8e8ab30cccf3604808d7da1b0a21935c1ac537"
+    },
+    {
+      "name": "java-reviewer",
+      "role": "cek_java_reviewer",
+      "description": "Expert Java code reviewer for Spring Boot and Quarkus projects. Automatically detects the framework and applies the appropriate review rules. Covers layered architecture, JPA/Panache, MongoDB, security, and concurrency. MUST BE USED for all Java code changes.",
+      "file": "agents/java-reviewer.toml",
+      "source": "vendor/ecc/agents/java-reviewer.md",
+      "sha256": "e768811020978d62930e8a1de33d674f07fbd479073de570df57c143b8eb33b6"
+    },
+    {
+      "name": "kotlin-build-resolver",
+      "role": "cek_kotlin_build_resolver",
+      "description": "Kotlin/Gradle build, compilation, and dependency error resolution specialist. Fixes build errors, Kotlin compiler errors, and Gradle issues with minimal changes. Use when Kotlin builds fail.",
+      "file": "agents/kotlin-build-resolver.toml",
+      "source": "vendor/ecc/agents/kotlin-build-resolver.md",
+      "sha256": "db6796bdc2294d795bac286f7c04f4e6048af8acb3faf80edfc110285172e16b"
+    },
+    {
+      "name": "kotlin-reviewer",
+      "role": "cek_kotlin_reviewer",
+      "description": "Kotlin and Android/KMP code reviewer. Reviews Kotlin code for idiomatic patterns, coroutine safety, Compose best practices, clean architecture violations, and common Android pitfalls.",
+      "file": "agents/kotlin-reviewer.toml",
+      "source": "vendor/ecc/agents/kotlin-reviewer.md",
+      "sha256": "be82de3435c4b7b48e4ff9589e8c211d80fafa5c8c9ac98d6572c88004519858"
+    },
+    {
+      "name": "loop-operator",
+      "role": "cek_loop_operator",
+      "description": "Operate autonomous agent loops, monitor progress, and intervene safely when loops stall.",
+      "file": "agents/loop-operator.toml",
+      "source": "vendor/ecc/agents/loop-operator.md",
+      "sha256": "51f8283a56b799c2bd2c2455b3480e949656cbf997ea2feb34a972d3d6400f22"
+    },
+    {
+      "name": "marketing-agent",
+      "role": "cek_marketing_agent",
+      "description": "Marketing strategist and copywriter for campaign planning, audience research, positioning, copy creation, and content review. Covers landing pages, email sequences, social posts, ad copy, short-form video scripts, and content calendars. Use when the user wants to plan or execute a product launch or marketing campaign.",
+      "file": "agents/marketing-agent.toml",
+      "source": "vendor/ecc/agents/marketing-agent.md",
+      "sha256": "9d9cdcde2f90ba36ac488065beaa4fc3b74ff5a91507e504b9ea2cc608213cf8"
+    },
+    {
+      "name": "mle-reviewer",
+      "role": "cek_mle_reviewer",
+      "description": "Production machine-learning engineering reviewer for data contracts, feature pipelines, training reproducibility, offline/online evaluation, model serving, monitoring, and rollback. Use when ML, MLOps, model training, inference, feature store, or evaluation code changes.",
+      "file": "agents/mle-reviewer.toml",
+      "source": "vendor/ecc/agents/mle-reviewer.md",
+      "sha256": "c505be5fccea9d067775b86fed76bc4b84e63e17090855ac135694adbc83a7f8"
+    },
+    {
+      "name": "network-architect",
+      "role": "cek_network_architect",
+      "description": "Designs enterprise or multi-site network architecture from requirements, using existing network skills for focused routing, validation, automation, and troubleshooting detail.",
+      "file": "agents/network-architect.toml",
+      "source": "vendor/ecc/agents/network-architect.md",
+      "sha256": "1b434aa8496a1cb8c39add08d0c68a4b27af8378de725f370d7682c02a56997e"
+    },
+    {
+      "name": "network-config-reviewer",
+      "role": "cek_network_config_reviewer",
+      "description": "Reviews router and switch configurations for security, correctness, stale references, risky change-window commands, and missing operational guardrails.",
+      "file": "agents/network-config-reviewer.toml",
+      "source": "vendor/ecc/agents/network-config-reviewer.md",
+      "sha256": "12b2b04d8235941f6a9a0d42a679c581ce89963172d5fb0f63abb4202521593f"
+    },
+    {
+      "name": "network-troubleshooter",
+      "role": "cek_network_troubleshooter",
+      "description": "Diagnoses network connectivity, routing, DNS, interface, and policy symptoms with a read-only OSI-layer workflow and evidence-backed root cause summary.",
+      "file": "agents/network-troubleshooter.toml",
+      "source": "vendor/ecc/agents/network-troubleshooter.md",
+      "sha256": "64528c41b59eea2cb4ac642bd3197bbadc8c456f3601520e410cf606e848fb07"
+    },
+    {
+      "name": "opensource-forker",
+      "role": "cek_opensource_forker",
+      "description": "Fork any project for open-sourcing. Copies files, strips secrets and credentials (20+ patterns), replaces internal references with placeholders, generates .env.example, and cleans git history. First stage of the opensource-pipeline skill.",
+      "file": "agents/opensource-forker.toml",
+      "source": "vendor/ecc/agents/opensource-forker.md",
+      "sha256": "3cbe7f04a15fe67355ded13103e3b961c51678ba93c2db1b25b4f88aa0a3dee6"
+    },
+    {
+      "name": "opensource-packager",
+      "role": "cek_opensource_packager",
+      "description": "Generate complete open-source packaging for a sanitized project. Produces CLAUDE.md, setup.sh, README.md, LICENSE, CONTRIBUTING.md, and GitHub issue templates. Makes any repo immediately usable with Codex. Third stage of the opensource-pipeline skill.",
+      "file": "agents/opensource-packager.toml",
+      "source": "vendor/ecc/agents/opensource-packager.md",
+      "sha256": "996f528ac789b3c19ded6bf7c25217a3e9e7c1e6d320a4f9d69f17252815cb16"
+    },
+    {
+      "name": "opensource-sanitizer",
+      "role": "cek_opensource_sanitizer",
+      "description": "Verify an open-source fork is fully sanitized before release. Scans for leaked secrets, PII, internal references, and dangerous files using 20+ regex patterns. Generates a PASS/FAIL/PASS-WITH-WARNINGS report. Second stage of the opensource-pipeline skill. Use PROACTIVELY before any public release.",
+      "file": "agents/opensource-sanitizer.toml",
+      "source": "vendor/ecc/agents/opensource-sanitizer.md",
+      "sha256": "89bee8676c1004b4b88d0513edda1835c3738503ba7fbef07b55bf9ba12a347b"
+    },
+    {
+      "name": "performance-optimizer",
+      "role": "cek_performance_optimizer",
+      "description": "Performance analysis and optimization specialist. Use PROACTIVELY for identifying bottlenecks, optimizing slow code, reducing bundle sizes, and improving runtime performance. Profiling, memory leaks, render optimization, and algorithmic improvements.",
+      "file": "agents/performance-optimizer.toml",
+      "source": "vendor/ecc/agents/performance-optimizer.md",
+      "sha256": "76d00a70fcc07a0b207f6b517d54078fa7a59f29e157fea72bf5f1d9cab8f9b2"
+    },
+    {
+      "name": "php-reviewer",
+      "role": "cek_php_reviewer",
+      "description": "Expert PHP code reviewer specializing in PSR-12 compliance, PHP type system, Eloquent ORM patterns, security, and performance. Use for all PHP code changes. MUST BE USED for PHP projects.",
+      "file": "agents/php-reviewer.toml",
+      "source": "vendor/ecc/agents/php-reviewer.md",
+      "sha256": "5ea9c18d0adedcf6ef7d46cc35ec91cdde2fa8fc3cfe1d1ece477347cb1a4a30"
+    },
+    {
+      "name": "planner",
+      "role": "cek_planner",
+      "description": "Expert planning specialist for complex features and refactoring. Use PROACTIVELY when users request feature implementation, architectural changes, or complex refactoring. Automatically activated for planning tasks.",
+      "file": "agents/planner.toml",
+      "source": "vendor/ecc/agents/planner.md",
+      "sha256": "63aba865206bac9cb5887542fb01b97656e7701faff98e091aa77057ba9860bc"
+    },
+    {
+      "name": "pr-test-analyzer",
+      "role": "cek_pr_test_analyzer",
+      "description": "Review pull request test coverage quality and completeness, with emphasis on behavioral coverage and real bug prevention.",
+      "file": "agents/pr-test-analyzer.toml",
+      "source": "vendor/ecc/agents/pr-test-analyzer.md",
+      "sha256": "5432aaf7e5fcb0813ac21828382971cc00f17d56ee95eac6d0ce180fc5d58016"
+    },
+    {
+      "name": "python-reviewer",
+      "role": "cek_python_reviewer",
+      "description": "Expert Python code reviewer specializing in PEP 8 compliance, Pythonic idioms, type hints, security, and performance. Use for all Python code changes. MUST BE USED for Python projects.",
+      "file": "agents/python-reviewer.toml",
+      "source": "vendor/ecc/agents/python-reviewer.md",
+      "sha256": "d2180b115f5840383268c13d5d075b0541fe7ef2a1ac8ecd5d835266ca1b27ce"
+    },
+    {
+      "name": "pytorch-build-resolver",
+      "role": "cek_pytorch_build_resolver",
+      "description": "PyTorch runtime, CUDA, and training error resolution specialist. Fixes tensor shape mismatches, device errors, gradient issues, DataLoader problems, and mixed precision failures with minimal changes. Use when PyTorch training or inference crashes.",
+      "file": "agents/pytorch-build-resolver.toml",
+      "source": "vendor/ecc/agents/pytorch-build-resolver.md",
+      "sha256": "5ec08de6c6b616b068e7075be4496edd3e4ef3b041f0095a2e073131a58a9f7c"
+    },
+    {
+      "name": "rag-pipeline-reviewer",
+      "role": "cek_rag_pipeline_reviewer",
+      "description": "Reviews RAG (Retrieval-Augmented Generation) pipelines for retrieval quality, chunking strategy, embedding choices, and evaluation coverage. Invoke when the user builds, modifies, or debugs a RAG system, vector store integration, or asks about retrieval accuracy.",
+      "file": "agents/rag-pipeline-reviewer.toml",
+      "source": "vendor/ecc/agents/rag-pipeline-reviewer.md",
+      "sha256": "793432a0c4e44aa4c640cb85ec24b47062ed044782852b0ba67323d860154fec"
+    },
+    {
+      "name": "react-build-resolver",
+      "role": "cek_react_build_resolver",
+      "description": "Diagnose and fix React build failures across Vite, webpack, Next.js, CRA, Parcel, esbuild, and Bun. Handles JSX/TSX compile errors, hydration mismatches, server/client component boundary failures, missing types, and bundler-specific configuration issues with minimal, surgical changes. MUST BE USED when a React build fails.",
+      "file": "agents/react-build-resolver.toml",
+      "source": "vendor/ecc/agents/react-build-resolver.md",
+      "sha256": "a29dec6de18ac3d7b65c746f8133c1f14de5886592fa340c5c2a62fe7c4584e0"
+    },
+    {
+      "name": "react-reviewer",
+      "role": "cek_react_reviewer",
+      "description": "Expert React/JSX code reviewer specializing in hook correctness, render performance, server/client component boundaries, accessibility, and React-specific security. Use for any change touching .tsx/.jsx files or React component logic. MUST BE USED for React projects.",
+      "file": "agents/react-reviewer.toml",
+      "source": "vendor/ecc/agents/react-reviewer.md",
+      "sha256": "17d0286b4f101e27b818cad026a6bfc1f9fd3e7f9b52c8414e6ea2a05481995a"
+    },
+    {
+      "name": "refactor-cleaner",
+      "role": "cek_refactor_cleaner",
+      "description": "Dead code cleanup and consolidation specialist. Use PROACTIVELY for removing unused code, duplicates, and refactoring. Runs analysis tools (knip, depcheck, ts-prune) to identify dead code and safely removes it.",
+      "file": "agents/refactor-cleaner.toml",
+      "source": "vendor/ecc/agents/refactor-cleaner.md",
+      "sha256": "13704c3aee163bcbf6bcbf7a7933630a70d6c312ff3ee5a29bff63b8800484cc"
+    },
+    {
+      "name": "ruby-reviewer",
+      "role": "cek_ruby_reviewer",
+      "description": "Expert Ruby and Rails code reviewer specializing in idiomatic Ruby, Active Record query safety, Rails security defaults, and RSpec/Minitest quality. Use for all Ruby code changes. MUST BE USED for Ruby and Rails projects.",
+      "file": "agents/ruby-reviewer.toml",
+      "source": "vendor/ecc/agents/ruby-reviewer.md",
+      "sha256": "3ba715e19b0f776fbd63128f6f79a0c2c0e846896ce1c20f603dc8f5971e5d0c"
+    },
+    {
+      "name": "rust-build-resolver",
+      "role": "cek_rust_build_resolver",
+      "description": "Rust build, compilation, and dependency error resolution specialist. Fixes cargo build errors, borrow checker issues, and Cargo.toml problems with minimal changes. Use when Rust builds fail.",
+      "file": "agents/rust-build-resolver.toml",
+      "source": "vendor/ecc/agents/rust-build-resolver.md",
+      "sha256": "78c75c6be38ff376963b3c5b26d60dce0491064481d1a61e842a6d2879534e82"
+    },
+    {
+      "name": "rust-reviewer",
+      "role": "cek_rust_reviewer",
+      "description": "Expert Rust code reviewer specializing in ownership, lifetimes, error handling, unsafe usage, and idiomatic patterns. Use for all Rust code changes. MUST BE USED for Rust projects.",
+      "file": "agents/rust-reviewer.toml",
+      "source": "vendor/ecc/agents/rust-reviewer.md",
+      "sha256": "10af67c5764677596d43f32a952d8ec28662bb353fd986d726daefd3382ebeca"
+    },
+    {
+      "name": "security-reviewer",
+      "role": "cek_security_reviewer",
+      "description": "Security vulnerability detection and remediation specialist. Use PROACTIVELY after writing code that handles user input, authentication, API endpoints, or sensitive data. Flags secrets, SSRF, injection, unsafe crypto, and OWASP Top 10 vulnerabilities.",
+      "file": "agents/security-reviewer.toml",
+      "source": "vendor/ecc/agents/security-reviewer.md",
+      "sha256": "813e4062bed5f42ab25dd02a0070f682058ffe9508198fcfdbb2c31296f93b7b"
+    },
+    {
+      "name": "seo-specialist",
+      "role": "cek_seo_specialist",
+      "description": "SEO specialist for technical SEO audits, on-page optimization, structured data, Core Web Vitals, and content/keyword mapping. Use for site audits, meta tag reviews, schema markup, sitemap and robots issues, and SEO remediation plans.",
+      "file": "agents/seo-specialist.toml",
+      "source": "vendor/ecc/agents/seo-specialist.md",
+      "sha256": "40a66d601113669585cf6abbf4c9ae2bf134ef23ffdb78c45223733dbde90a2c"
+    },
+    {
+      "name": "silent-failure-hunter",
+      "role": "cek_silent_failure_hunter",
+      "description": "Review code for silent failures, swallowed errors, bad fallbacks, and missing error propagation.",
+      "file": "agents/silent-failure-hunter.toml",
+      "source": "vendor/ecc/agents/silent-failure-hunter.md",
+      "sha256": "e5e2094c6f50cc515a77376331c78e4955d5ff16c7a0e5d8f6edec692b7ebd8d"
+    },
+    {
+      "name": "spec-miner",
+      "role": "cek_spec_miner",
+      "description": "Extracts behavioral specs from existing codebases for OpenSpec. Produces flat Requirement and Invariant blocks with structured metadata (entities, enforced, id, test anchors). Outputs openspec/specs/<capability>/spec.md. Fully self-bootstrapping — no dependency on codebase-onboarding. Use when onboarding a brownfield project to spec-driven development.",
+      "file": "agents/spec-miner.toml",
+      "source": "vendor/ecc/agents/spec-miner.md",
+      "sha256": "a9270c2012e2dc979f153a481cdfdc7c5413e8774f579ada0319c00ea8903ba2"
+    },
+    {
+      "name": "swift-build-resolver",
+      "role": "cek_swift_build_resolver",
+      "description": "Swift/Xcode build, compilation, and dependency error resolution specialist. Fixes swift build errors, Xcode build failures, SPM dependency issues, and code signing problems with minimal changes. Use when Swift builds fail.",
+      "file": "agents/swift-build-resolver.toml",
+      "source": "vendor/ecc/agents/swift-build-resolver.md",
+      "sha256": "219e9e37151e385c0eae69b28306897e2a21ba1dbad5ed3077801c822c98b156"
+    },
+    {
+      "name": "swift-reviewer",
+      "role": "cek_swift_reviewer",
+      "description": "Expert Swift code reviewer specializing in protocol-oriented design, value semantics, ARC memory management, Swift Concurrency, and idiomatic patterns. Use for all Swift code changes. MUST BE USED for Swift projects.",
+      "file": "agents/swift-reviewer.toml",
+      "source": "vendor/ecc/agents/swift-reviewer.md",
+      "sha256": "b8de7f16fafef82645aca3923b0c4fdbe619433c5df9386b3737fb6591545e8b"
+    },
+    {
+      "name": "tdd-guide",
+      "role": "cek_tdd_guide",
+      "description": "Test-Driven Development specialist enforcing write-tests-first methodology. Use PROACTIVELY when writing new features, fixing bugs, or refactoring code. Ensures 80%+ test coverage.",
+      "file": "agents/tdd-guide.toml",
+      "source": "vendor/ecc/agents/tdd-guide.md",
+      "sha256": "979afbb40c42bfdd02fc308c130d7e257f5d6dd5f6531ef2562644862f6b7771"
+    },
+    {
+      "name": "type-design-analyzer",
+      "role": "cek_type_design_analyzer",
+      "description": "Analyze type design for encapsulation, invariant expression, usefulness, and enforcement.",
+      "file": "agents/type-design-analyzer.toml",
+      "source": "vendor/ecc/agents/type-design-analyzer.md",
+      "sha256": "753908aadd759d4710e07ac1a0ba8a6fbc0bc35fe369cadd3ede9655da5d1c49"
+    },
+    {
+      "name": "typescript-reviewer",
+      "role": "cek_typescript_reviewer",
+      "description": "Expert TypeScript/JavaScript code reviewer specializing in type safety, async correctness, Node/web security, and idiomatic patterns. Use for all TypeScript and JavaScript code changes. MUST BE USED for TypeScript/JavaScript projects.",
+      "file": "agents/typescript-reviewer.toml",
+      "source": "vendor/ecc/agents/typescript-reviewer.md",
+      "sha256": "33753b05487c1aae4235fbff901cceb646735316015f79401569958d1507d2e4"
+    },
+    {
+      "name": "vue-reviewer",
+      "role": "cek_vue_reviewer",
+      "description": "Expert Vue.js code reviewer specializing in Composition API correctness, reactivity pitfalls, component architecture, template security, and Vue-specific performance. Use for any change touching .vue, .ts/.js files with Vue imports, or Vue ecosystem code (Pinia, Vue Router, Nuxt). MUST BE USED for Vue projects.",
+      "file": "agents/vue-reviewer.toml",
+      "source": "vendor/ecc/agents/vue-reviewer.md",
+      "sha256": "c675814544f06703cf34347c24c630267073d6ee605e70820fc1c1a74e71358a"
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+# Catalog
+
+Generated from the pinned ECC snapshot. All entries load as Codex guidance; external dependencies require separate configuration and testing.
+
+## Skills
+
+- `accessibility`
+- `agent-architecture-audit`
+- `agent-eval` — source contains host-specific examples
+- `agent-harness-construction`
+- `agent-introspection-debugging`
+- `agent-payment-x402` — source contains host-specific examples
+- `agent-runtime-gateway-smoke-test`
+- `agent-security-hardening`
+- `agent-self-evaluation`
+- `agent-sort`
+- `agentic-engineering`
+- `agentic-os` — source contains host-specific examples
+- `ai-first-engineering`
+- `ai-regression-testing` — source contains host-specific examples
+- `android-clean-architecture`
+- `angular-developer`
+- `api-connector-builder`
+- `api-design`
+- `architecture-decision-records`
+- `article-writing`
+- `automation-audit-ops`
+- `autonomous-agent-harness` — source contains host-specific examples
+- `autonomous-loops` — source contains host-specific examples
+- `backend-patterns`
+- `benchmark`
+- `benchmark-methodology`
+- `benchmark-optimization-loop`
+- `bengali-nlp`
+- `blender-motion-state-inspection`
+- `blueprint` — source contains host-specific examples
+- `brand-discovery`
+- `brand-voice`
+- `brownfield-retrospective`
+- `browser-qa`
+- `bun-runtime`
+- `canary-watch` — source contains host-specific examples
+- `carrier-relationship-management`
+- `change-impact`
+- `cisco-ios-patterns`
+- `ck` — source contains host-specific examples
+- `claude-devfleet` — source contains host-specific examples
+- `click-path-audit`
+- `clickhouse-io`
+- `code-tour`
+- `codebase-onboarding` — source contains host-specific examples
+- `codehealth-mcp` — source contains host-specific examples
+- `coding-standards`
+- `competitive-platform-analysis`
+- `competitive-report-structure`
+- `compose-multiplatform-patterns`
+- `config-gc` — source contains host-specific examples
+- `configure-ecc` — source contains host-specific examples
+- `connections-optimizer`
+- `content-engine`
+- `content-hash-cache-pattern`
+- `context-and-decisions`
+- `context-budget` — source contains host-specific examples
+- `continuous-agent-loop`
+- `continuous-learning` — source contains host-specific examples
+- `continuous-learning-v2` — source contains host-specific examples
+- `contract-first`
+- `conventional-commit-review`
+- `cost-aware-llm-pipeline` — source contains host-specific examples
+- `cost-tracking` — source contains host-specific examples
+- `council` — source contains host-specific examples
+- `council-multi-model` — source contains host-specific examples
+- `counterparty-channel-discipline`
+- `cpp-coding-standards`
+- `cpp-testing`
+- `crosspost`
+- `csharp-testing`
+- `customer-billing-ops`
+- `customs-trade-compliance`
+- `dart-flutter-patterns`
+- `dashboard-builder`
+- `data-scraper-agent`
+- `data-throughput-accelerator`
+- `database-migrations`
+- `deep-research` — source contains host-specific examples
+- `deepseek-harness-setup` — source contains host-specific examples
+- `defi-amm-security`
+- `delivery-gate` — source contains host-specific examples
+- `deployment-patterns`
+- `design-system`
+- `dev-team`
+- `django-celery`
+- `django-patterns`
+- `django-security`
+- `django-tdd`
+- `django-verification`
+- `dmux-workflows` — source contains host-specific examples
+- `docker-patterns`
+- `docs-governance`
+- `documentation-lookup` — source contains host-specific examples
+- `dotnet-patterns`
+- `dynamic-workflow-mode` — source contains host-specific examples
+- `e2e-testing`
+- `ecc-guide` — source contains host-specific examples
+- `ecc-recipes`
+- `ecc-tools-cost-audit`
+- `email-ops`
+- `energy-procurement`
+- `enterprise-agent-ops`
+- `error-handling`
+- `esign-field-placement`
+- `eval-harness` — source contains host-specific examples
+- `evm-token-decimals`
+- `exa-search` — source contains host-specific examples
+- `fal-ai-media` — source contains host-specific examples
+- `fastapi-patterns`
+- `finance-billing-ops`
+- `flox-environments` — source contains host-specific examples
+- `flutter-dart-code-review`
+- `foundation-models-on-device`
+- `frontend-a11y`
+- `frontend-design-direction`
+- `frontend-patterns`
+- `frontend-slides`
+- `fsharp-testing`
+- `gan-style-harness` — source contains host-specific examples
+- `gateguard` — source contains host-specific examples
+- `generating-python-installer`
+- `git-workflow`
+- `github-ops`
+- `golang-patterns`
+- `golang-testing`
+- `google-workspace-ops`
+- `growth-log`
+- `healthcare-cdss-patterns`
+- `healthcare-emr-patterns`
+- `healthcare-eval-harness`
+- `healthcare-phi-compliance`
+- `hermes-imports`
+- `hexagonal-architecture`
+- `hipaa-compliance`
+- `homelab-network-readiness`
+- `homelab-network-setup`
+- `homelab-pihole-dns`
+- `homelab-vlan-segmentation`
+- `homelab-wireguard-vpn`
+- `hookify-rules` — source contains host-specific examples
+- `i18n-sync`
+- `inherit-legacy-style`
+- `intent-driven-development`
+- `inventory-demand-planning`
+- `investor-materials`
+- `investor-outreach`
+- `ios-icon-gen`
+- `issue-review`
+- `iterative-retrieval`
+- `ito-baskets`
+- `ito-compute`
+- `ito-inference`
+- `ito-training`
+- `java-coding-standards`
+- `jira-integration` — source contains host-specific examples
+- `jpa-patterns`
+- `knowledge-ops` — source contains host-specific examples
+- `kotlin-coroutines-flows`
+- `kotlin-exposed-patterns`
+- `kotlin-ktor-patterns`
+- `kotlin-patterns`
+- `kotlin-testing`
+- `kubernetes-patterns`
+- `laravel-patterns`
+- `laravel-plugin-discovery` — source contains host-specific examples
+- `laravel-security`
+- `laravel-tdd`
+- `laravel-verification`
+- `latency-critical-systems`
+- `lead-intelligence`
+- `liquid-glass-design`
+- `living-docs-governance` — source contains host-specific examples
+- `llm-trading-agent-security`
+- `logistics-exception-management`
+- `loop-design-check` — source contains host-specific examples
+- `mailtrap-email-integration`
+- `make-interfaces-feel-better`
+- `manim-video`
+- `market-research`
+- `marketing-campaign`
+- `master-agreement-generator`
+- `mcp-dependency-review` — source contains host-specific examples
+- `mcp-server-patterns` — source contains host-specific examples
+- `messages-ops`
+- `ml-adoption-playbook`
+- `mle-workflow`
+- `module-governance`
+- `module-regression`
+- `motion-advanced`
+- `motion-foundations`
+- `motion-patterns`
+- `mybatis-patterns`
+- `mysql-patterns`
+- `nanoclaw-repl`
+- `nasiko-control-plane`
+- `nestjs-patterns`
+- `netmiko-ssh-automation`
+- `network-bgp-diagnostics`
+- `network-config-validation`
+- `network-interface-health`
+- `nextjs-turbopack`
+- `nodejs-keccak256`
+- `nutrient-document-processing`
+- `nuxt4-patterns`
+- `openclaw-persona-forge` — source contains host-specific examples
+- `opensource-pipeline`
+- `operator-approval-loop`
+- `orch-add-feature`
+- `orch-build-mvp`
+- `orch-change-feature`
+- `orch-fix-defect`
+- `orch-pipeline`
+- `orch-refine-code`
+- `osint-investigation`
+- `parallel-execution-optimizer`
+- `perl-patterns`
+- `perl-security`
+- `perl-testing`
+- `plan-canvas` — source contains host-specific examples
+- `plan-orchestrate`
+- `plankton-code-quality` — source contains host-specific examples
+- `postgres-patterns`
+- `prediction-market-oracle-research`
+- `prediction-market-risk-review`
+- `prisma-patterns`
+- `product-capability` — source contains host-specific examples
+- `product-lens`
+- `production-audit`
+- `production-scheduling`
+- `project-flow-ops`
+- `prompt-caching-strategy` — source contains host-specific examples
+- `prompt-optimizer` — source contains host-specific examples
+- `python-patterns`
+- `python-testing`
+- `pytorch-patterns`
+- `quality-nonconformance`
+- `quarkus-patterns`
+- `quarkus-security`
+- `quarkus-tdd`
+- `quarkus-verification`
+- `rails-patterns`
+- `ralphinho-rfc-pipeline`
+- `react-native-patterns`
+- `react-patterns`
+- `react-performance`
+- `react-testing`
+- `recsys-pipeline-architect`
+- `recursive-decision-ledger`
+- `redis-patterns`
+- `regex-vs-llm-structured-text`
+- `remotion-video-creation`
+- `repo-scan` — source contains host-specific examples
+- `research-ops`
+- `returns-reverse-logistics`
+- `rules-distill` — source contains host-specific examples
+- `rust-patterns`
+- `rust-testing`
+- `safety-guard` — source contains host-specific examples
+- `santa-method` — source contains host-specific examples
+- `scientific-db-pubmed-database`
+- `scientific-db-uspto-database`
+- `scientific-pkg-gget`
+- `scientific-thinking-literature-review`
+- `scientific-thinking-scholar-evaluation`
+- `search-first` — source contains host-specific examples
+- `security-bounty-hunter`
+- `security-review`
+- `security-scan` — source contains host-specific examples
+- `seo`
+- `skill-comply` — source contains host-specific examples
+- `skill-host-compat` — source contains host-specific examples
+- `skill-scout` — source contains host-specific examples
+- `skill-stocktake` — source contains host-specific examples
+- `social-graph-ranker`
+- `social-publisher` — source contains host-specific examples
+- `springboot-patterns`
+- `springboot-security`
+- `springboot-tdd`
+- `springboot-verification`
+- `story-lifecycle`
+- `strategic-compact` — source contains host-specific examples
+- `swift-actor-persistence`
+- `swift-concurrency-6-2`
+- `swift-protocol-di-testing`
+- `swiftui-patterns`
+- `taste`
+- `taste-application`
+- `taste-distillation`
+- `tasteforge-video`
+- `tdd-workflow` — source contains host-specific examples
+- `team-agent-orchestration` — source contains host-specific examples
+- `team-builder` — source contains host-specific examples
+- `terminal-opener`
+- `terminal-ops`
+- `test-collaboration` — source contains host-specific examples
+- `tinystruct-patterns`
+- `token-budget-advisor` — source contains host-specific examples
+- `token-card` — source contains host-specific examples
+- `typescript-patterns`
+- `ui-demo`
+- `ui-to-vue`
+- `uncloud`
+- `unified-memory` — source contains host-specific examples
+- `unified-notifications-ops` — source contains host-specific examples
+- `verification-loop` — source contains host-specific examples
+- `video-editing` — source contains host-specific examples
+- `videodb` — source contains host-specific examples
+- `visa-doc-translate`
+- `vite-patterns`
+- `vue-patterns`
+- `windows-desktop-e2e` — source contains host-specific examples
+- `workspace-surface-audit` — source contains host-specific examples
+- `x-api` — source contains host-specific examples
+- `source-command-auto-update` — source contains host-specific examples
+- `source-command-build-fix`
+- `source-command-cpp-review`
+- `source-command-ecc-guide` — source contains host-specific examples
+- `source-command-epic-claim`
+- `source-command-epic-decompose`
+- `source-command-epic-publish`
+- `source-command-epic-review`
+- `source-command-epic-sync`
+- `source-command-epic-unblock`
+- `source-command-epic-validate`
+- `source-command-fastapi-review`
+- `source-command-feature-dev`
+- `source-command-go-build`
+- `source-command-go-review`
+- `source-command-gradle-build`
+- `source-command-hookify` — source contains host-specific examples
+- `source-command-hookify-configure`
+- `source-command-hookify-help` — source contains host-specific examples
+- `source-command-hookify-list`
+- `source-command-instinct-export`
+- `source-command-instinct-import` — source contains host-specific examples
+- `source-command-instinct-status` — source contains host-specific examples
+- `source-command-jira`
+- `source-command-learn` — source contains host-specific examples
+- `source-command-plan-canvas`
+- `source-command-projects` — source contains host-specific examples
+- `source-command-promote` — source contains host-specific examples
+- `source-command-prune` — source contains host-specific examples
+- `source-command-refactor-clean`
+- `source-command-review-pr`
+- `source-command-setup-pm` — source contains host-specific examples
+- `source-command-test-coverage`
+- `source-command-token-card` — source contains host-specific examples
+- `source-command-update-codemaps`
+- `source-command-update-docs`
+
+## Agent roles
+
+- `cek_a11y_architect`
+- `cek_agent_evaluator`
+- `cek_architect`
+- `cek_bengali_reviewer`
+- `cek_build_error_resolver`
+- `cek_chief_of_staff`
+- `cek_code_architect`
+- `cek_code_explorer`
+- `cek_code_reviewer`
+- `cek_code_simplifier`
+- `cek_comment_analyzer`
+- `cek_commit_reviewer`
+- `cek_conversation_analyzer`
+- `cek_cpp_build_resolver`
+- `cek_cpp_reviewer`
+- `cek_csharp_reviewer`
+- `cek_dart_build_resolver`
+- `cek_database_reviewer`
+- `cek_django_build_resolver`
+- `cek_django_reviewer`
+- `cek_doc_updater`
+- `cek_docs_lookup`
+- `cek_e2e_runner`
+- `cek_fastapi_reviewer`
+- `cek_flutter_reviewer`
+- `cek_fsharp_reviewer`
+- `cek_gan_evaluator`
+- `cek_gan_generator`
+- `cek_gan_planner`
+- `cek_go_build_resolver`
+- `cek_go_reviewer`
+- `cek_harmonyos_app_resolver`
+- `cek_harness_optimizer`
+- `cek_healthcare_reviewer`
+- `cek_homelab_architect`
+- `cek_java_build_resolver`
+- `cek_java_reviewer`
+- `cek_kotlin_build_resolver`
+- `cek_kotlin_reviewer`
+- `cek_loop_operator`
+- `cek_marketing_agent`
+- `cek_mle_reviewer`
+- `cek_network_architect`
+- `cek_network_config_reviewer`
+- `cek_network_troubleshooter`
+- `cek_opensource_forker`
+- `cek_opensource_packager`
+- `cek_opensource_sanitizer`
+- `cek_performance_optimizer`
+- `cek_php_reviewer`
+- `cek_planner`
+- `cek_pr_test_analyzer`
+- `cek_python_reviewer`
+- `cek_pytorch_build_resolver`
+- `cek_rag_pipeline_reviewer`
+- `cek_react_build_resolver`
+- `cek_react_reviewer`
+- `cek_refactor_cleaner`
+- `cek_ruby_reviewer`
+- `cek_rust_build_resolver`
+- `cek_rust_reviewer`
+- `cek_security_reviewer`
+- `cek_seo_specialist`
+- `cek_silent_failure_hunter`
+- `cek_spec_miner`
+- `cek_swift_build_resolver`
+- `cek_swift_reviewer`
+- `cek_tdd_guide`
+- `cek_type_design_analyzer`
+- `cek_typescript_reviewer`
+- `cek_vue_reviewer`
