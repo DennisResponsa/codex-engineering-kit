@@ -1,5 +1,14 @@
 {
   "name": "codex-engineering-kit",
-  "owner": {"name": "DennisResponsa"},
-  "plugins": [{"name": "codex-engineering-kit", "source": "./", "description": "Codex-native ECC-derived skill collection", "version": "0.1.0"}]
+  "owner": {
+    "name": "DennisResponsa"
+  },
+  "plugins": [
+    {
+      "name": "codex-engineering-kit",
+      "source": "./",
+      "description": "Codex-native ECC-derived skill collection",
+      "version": "0.1.1"
+    }
+  ]
 }

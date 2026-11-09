@@ -1,8 +1,10 @@
 {
   "name": "codex-engineering-kit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "350 ECC-derived skills and migrated commands adapted for Codex, with 71 native agent role templates and reproducible validation.",
-  "author": {"name": "DennisResponsa"},
+  "author": {
+    "name": "DennisResponsa"
+  },
   "repository": "https://github.com/DennisResponsa/codex-engineering-kit",
   "license": "MIT",
   "skills": "./skills/"

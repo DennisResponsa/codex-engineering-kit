@@ -1,22 +1,51 @@
 # Codex Engineering Kit
 
-**A Codex-native distribution of ECC's engineering workflows: 350 skills and migrated commands, plus 71 specialist agent roles.**
+[![Validate distribution](https://github.com/DennisResponsa/codex-engineering-kit/actions/workflows/validate.yml/badge.svg)](https://github.com/DennisResponsa/codex-engineering-kit/actions/workflows/validate.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Built from [ECC / Everything Claude Code](https://github.com/affaan-m/ECC), with attribution and MIT licensing preserved. Independent project; not an official OpenAI, Anthropic or ECC product.
+**Give Codex a repeatable workflow for planning, building, testing and reviewing software.**
 
-## What changes for Codex
+Codex Engineering Kit adapts [ECC / Everything Claude Code](https://github.com/affaan-m/ECC) into a native Codex skill plugin and project-scoped specialist roles. Use the model you already selected in Codex. Start with one task, load the relevant guidance, and verify the result.
 
-- A native Codex plugin exposes the complete skill catalog with normalized frontmatter and an explicit Codex execution contract.
-- 71 native TOML role templates inherit your selected model and permissions. No Claude subscription or Anthropic model is required to use the general engineering workflows.
-- A project-scoped installer adds roles without replacing your model, provider, existing agents or permission settings. It supports preview, collision detection and repeatable installation.
-- Source checksums and a pinned upstream revision make the adaptation reproducible.
-- No automatic hooks, MCP servers, learning loops or background agents are enabled by this distribution.
+**350 skills and migrated commands · 71 specialist role templates · No automatic background agents**
 
-This is a workflow and instruction toolkit, **not a model, security boundary or performance guarantee**. Provider-specific skills still require their respective products. Installing the catalog does not verify every integration. See [compatibility and validation](docs/COMPATIBILITY.md).
+[Try the demo](#try-it-first-no-account-required) · [Install](#install-in-codex) · [Full catalog](docs/CATALOG.md) · [Latest release](https://github.com/DennisResponsa/codex-engineering-kit/releases/latest)
 
-## Install the skill plugin
+## What can I do with it?
 
-Requires a Codex release with native repository marketplace support. Tested locally with Codex CLI `0.167.0-alpha.3.2`; compatibility with other versions should be checked.
+| Your task | Example workflow |
+| --- | --- |
+| Start an application | Clarify acceptance criteria → plan architecture → implement → test → review |
+| Fix a bug | Reproduce it → add a failing test → make a focused change → verify independently |
+| Review an existing project | Inspect a bounded area → run relevant checks → report reproduced issues and limits |
+| Prepare a release | Check compatibility, tests, attribution and publication boundaries |
+
+These are workflows you can request, not promises that every project completes unattended. Agent delegation depends on your Codex host and permissions. External services require their own configuration. A general engineering workflow does not require a Claude subscription; product-specific skills may still depend on the product they describe.
+
+## Try it first: no account required
+
+The included demo uses **only synthetic data**, Python 3.11+ and its standard library. No credentials, network access or AI model calls.
+
+```sh
+git clone https://github.com/DennisResponsa/codex-engineering-kit.git
+cd codex-engineering-kit
+python3 examples/order_totals/run_demo.py
+```
+
+The example catches a discount incorrectly applied to shipping:
+
+| Same eight acceptance tests | Outcome |
+| --- | --- |
+| Intentionally faulty fixture | 2 fail: shipping was discounted |
+| Corrected implementation | 8 pass |
+
+The demo command exits successfully only when both expected outcomes match. **It runs tests, not agents.** To try a real delegated Codex review, use the prompt in the [demo guide](examples/order_totals/README.md). The solution is included for inspection; this is not a model benchmark.
+
+## Install in Codex
+
+### 1. Enable the skill plugin
+
+Requires a Codex release with native repository marketplace support. Native discovery was tested with CLI `0.167.0-alpha.3.2`; other versions must be checked rather than assumed compatible.
 
 ```sh
 codex plugin marketplace add DennisResponsa/codex-engineering-kit
@@ -24,24 +53,46 @@ codex plugin add codex-engineering-kit@codex-engineering-kit
 codex plugin list --json
 ```
 
-Start a new Codex session to discover the skills. Use ordinary requests such as “Review this change for correctness and security, then run the relevant tests.” Select relevant skills; loading the entire catalog into one task is unnecessary.
+Start a new Codex session. If you already have the full ECC plugin enabled, choose one catalog for that session to avoid duplicate workflows. Nothing here silently removes another plugin.
 
-If you already use ECC, avoid enabling both complete catalogs in the same session unless you intentionally want duplicate workflows. This installer never silently removes another plugin.
+### 2. Add specialist roles to your project (optional)
 
-## Install the 71 agent roles
-
-Python 3.11+ is required. Installing roles does not start agents or enable parallel execution.
+From the cloned repository, with Python 3.11+:
 
 ```sh
-git clone https://github.com/DennisResponsa/codex-engineering-kit.git
-cd codex-engineering-kit
 python3 scripts/install_agents.py --project /path/to/your/project --dry-run
 python3 scripts/install_agents.py --project /path/to/your/project
 ```
 
-Roles are named `cek_code_reviewer`, `cek_architect`, and so on. They are written under the target project's `.codex/agents/cek/` and registered in `.codex/config.toml`. Existing settings are preserved; the first pre-install config is backed up locally as `config.toml.before-cek`. Keep that backup private. The user and host decide when delegation is permitted and how many agents may run.
+Replace `/path/to/your/project` with your actual project directory. Roles such as `cek_code_reviewer` and `cek_architect` are registered in that project's `.codex/config.toml`; templates live in `.codex/agents/cek/`. They inherit your model and permissions. The installer checks collisions and preserves existing settings. Its private local backup, `config.toml.before-cek`, should not be committed.
 
-## Validate and rebuild
+Installing roles does not launch agents or grant permissions. Restart the project session to load the configuration.
+
+### 3. Give Codex a bounded task
+
+> Use Codex Engineering Kit to review this project. Start with its project instructions. Use a test analyst and an independent reviewer if delegation is available. Reproduce issues locally, report the tests run and their limits, and do not publish or contact external services.
+
+Select skills relevant to the task; do not load all 350 at once. For a first run with known data, use [the order totals demo](examples/order_totals/README.md).
+
+### If setup does not work
+
+- **Unknown `plugin` command:** your Codex build may not support the tested marketplace interface. Check its own help/version; do not run upstream Claude installers as a substitute.
+- **Skills not visible:** check `codex plugin list --json` and start a new session. Use the isolated discovery check below to separate catalog errors from normal-profile configuration.
+- **Roles not visible:** confirm the target project and its `.codex/config.toml`; start a session for that project. The host must support custom roles.
+- **Installer collision:** inspect the named existing entry. The installer intentionally stops instead of replacing unrelated configuration.
+
+[Compatibility, dependencies and uninstall](docs/COMPATIBILITY.md)
+
+## What is verified?
+
+- Distribution tests cover every generated catalog entry, upstream source hashes, all 71 TOML role files, model inheritance and installer behavior.
+- Native plugin discovery is tested separately using a temporary Codex home.
+- The demo checks eight acceptance cases against a faulty fixture and a corrected example.
+- CI runs distribution checks and the demo on Linux and macOS. See the badge and [validation record](docs/VALIDATION.md) for actual outcomes.
+
+These checks do **not** certify the behavior of every specialist, every external integration or production security. The kit is instruction-based guidance, not a model, security boundary or always-running autonomous service. No hooks, MCP servers, learning loops or background agents are automatically enabled.
+
+## Develop and validate
 
 ```sh
 python3 -m venv .venv
@@ -49,25 +100,30 @@ python3 -m venv .venv
 python -m pip install -r requirements-dev.txt
 python scripts/build.py
 python -m unittest discover -s tests -v
+python examples/order_totals/run_demo.py
 python scripts/check_release.py
 ```
 
-If Codex CLI is installed, perform an actual isolated discovery test without using your normal Codex configuration:
+With a compatible Codex CLI available:
 
 ```sh
 python scripts/check_native.py
 ```
 
-The discovery test creates a temporary Codex home, registers only this plugin and checks `skills/list`. It does not call an AI model, authenticate another account or modify your usual Codex setup.
+This uses a temporary `CODEX_HOME`, tests plugin discovery, and does not invoke a model or alter your normal configuration. Regenerate adapters with `scripts/build.py`; do not hand-edit generated skill or role files.
 
-## Evidence and limits
+## Help improve the kit
 
-The release tests cover all catalog entries and role configs, source integrity, installer idempotence, collision handling and symlink refusal. Native discovery is tested separately. These checks do **not** demonstrate that all 71 agents perform their specialties correctly or that all external services work.
+Try the demo, then one bounded task in your own project. [Report a reproducible issue](https://github.com/DennisResponsa/codex-engineering-kit/issues) with your Codex version, OS, command and expected/observed result. Remove credentials, private paths and customer data before posting. Improvements to onboarding, compatibility evidence and synthetic examples are welcome; read [CONTRIBUTING.md](CONTRIBUTING.md).
 
-There is no claim of superiority over Claude. A meaningful comparison needs the same tasks, starting code, tools, budgets and independently checked outcomes. See [the evaluation protocol](docs/EVALUATION.md).
+If the kit is useful, a star helps other people discover it. More valuable still: tell us what worked, what failed, and how to reproduce it.
 
-## Source and license
+## Attribution and license
 
-The untouched upstream snapshot is in `vendor/ecc/`, pinned to `b38be6a7f6350964d59328b52f0624e1d1d552d1`. It includes upstream resources and scripts for reference; its own installers and workflows are not automatically activated. Generate adapters with `scripts/build.py` rather than editing generated files.
+Independent project maintained by **DennisResponsa**, derived from **ECC / Everything Claude Code**. Not an official OpenAI, Anthropic or ECC product. The upstream MIT license and attribution are preserved.
 
-[Full catalog](docs/CATALOG.md) · [Attribution](NOTICE.md) · [MIT license](LICENSE)
+The unchanged upstream snapshot under `vendor/ecc/` is pinned to `b38be6a7f6350964d59328b52f0624e1d1d552d1`. Bundled upstream scripts are reference material, not automatically executed installers. This release updates onboarding and the demo; the generated adapter contract remains version 0.1.0.
+
+No superiority over Claude is claimed. A meaningful comparison needs matched tasks, tools, budgets and independently checked outcomes: see [EVALUATION.md](docs/EVALUATION.md).
+
+[MIT license](LICENSE) · [Attribution](NOTICE.md) · [Compatibility](docs/COMPATIBILITY.md)
